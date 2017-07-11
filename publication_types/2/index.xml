@@ -6,18 +6,147 @@
     <description>Recent content in 2 on Tom Louwerse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Tom Louwerse</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017 Tom Louwerse</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>http://louwerse.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Parliamentary Questions as Strategic Party Tools</title>
+      <link>http://louwerse.github.io/publication/2017-otjes-louwerse-wep/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://louwerse.github.io/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>http://louwerse.github.io/publication/2017-otjes-louwerse-wep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Dutch Parliamentary Behaviour Dataset</title>
+      <link>http://louwerse.github.io/publication/2017-louwerse-otjes-vanvonno-actapolitica/</link>
+      <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2017-louwerse-otjes-vanvonno-actapolitica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response Scales in Voting Advice Applications: Do Different Designs Produce Different Outcomes?</title>
+      <link>http://louwerse.github.io/publication/2016-rosema-louwerse-pi/</link>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2016-rosema-louwerse-pi/</guid>
+      <description>
+
+&lt;h3 id=&#34;this-is-an-open-access-publication-i-class-ai-ai-open-access-i-i-class-fa-fa-creative-commons-aria-hidden-true-i&#34;&gt;This is an open access publication &lt;i class=&#34;ai ai-open-access&#34;&gt;&lt;/i&gt; &lt;i class=&#34;fa fa-creative-commons&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/h3&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Improving opinion poll reporting: the Irish Polling Indicator</title>
+      <link>http://louwerse.github.io/publication/2016-louwerse-ips/</link>
+      <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2016-louwerse-ips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reaching across the aisle: Explaining government–opposition voting in parliament</title>
+      <link>http://louwerse.github.io/publication/2016-louwerse-etal-party-politics/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2016-louwerse-etal-party-politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalised parliamentary behaviour without electoral incentives: the case of the Netherlands</title>
+      <link>http://louwerse.github.io/publication/2016-louwerse-otjes-wep/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2016-louwerse-otjes-wep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Parliamentary Specialisation on Cosponsorship</title>
+      <link>http://louwerse.github.io/publication/2015-louwerse-otjes-jls/</link>
+      <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2015-louwerse-otjes-jls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Uncertainty in Party Policy Positions Using the Confrontational Approach</title>
+      <link>http://louwerse.github.io/publication/2015-louwerse-pellikaan-psrm/</link>
+      <pubDate>Thu, 09 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2015-louwerse-pellikaan-psrm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Populists in Parliament: Comparing Left-Wing and Right-Wing Populism in the Netherlands</title>
+      <link>http://louwerse.github.io/publication/2015-otjes-louwerse-ps/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2015-otjes-louwerse-ps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial models in voting advice applications</title>
+      <link>http://louwerse.github.io/publication/2014-otjes-louwerse-es/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2014-otjes-louwerse-es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Special Majority Cabinet? Supported Minority Governance and Parliamentary Behavior in the Netherlands</title>
+      <link>http://louwerse.github.io/publication/2014-otjes-louwerse-wpsr/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2014-otjes-louwerse-wpsr/</guid>
+      <description>&lt;p&gt;This is an English-language version of Otjes &amp;amp; Louwerse (2013) Res Publica 55(4), 459-480&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The design effects of voting advice applications: Comparing methods of calculating matches</title>
+      <link>http://louwerse.github.io/publication/2014-louwerse-rosema-actapolitica/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2014-louwerse-rosema-actapolitica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parliament without Government: The Belgian Parliament and the Government Formation Processes of 2007–2011</title>
+      <link>http://louwerse.github.io/publication/2014-vanaelst-louwerse-wep/</link>
+      <pubDate>Tue, 13 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2014-vanaelst-louwerse-wep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Een bijzonder meerderheidskabinet? Parlementair gedrag tijdens het kabinet Rutte-I</title>
+      <link>http://louwerse.github.io/publication/2013-otjes-louwerse-rp/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2013-otjes-louwerse-rp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design challenges in cross-national VAAs: the case of the EU Profiler</title>
+      <link>http://louwerse.github.io/publication/2012-louwerse-otjes-ijeg/</link>
+      <pubDate>Sun, 30 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2012-louwerse-otjes-ijeg/</guid>
+      <description></description>
     </item>
     
   </channel>
