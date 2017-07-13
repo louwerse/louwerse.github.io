@@ -7,17 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Tom Louwerse</copyright>
-    <lastBuildDate>Fri, 03 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>1</title>
-      <link>http://louwerse.github.io/publication_types/1/</link>
-      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://louwerse.github.io/publication_types/1/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>2</title>
@@ -31,7 +22,7 @@
     <item>
       <title>5</title>
       <link>http://louwerse.github.io/publication_types/5/</link>
-      <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>http://louwerse.github.io/publication_types/5/</guid>
       <description></description>
@@ -49,9 +40,18 @@
     <item>
       <title>7</title>
       <link>http://louwerse.github.io/publication_types/7/</link>
-      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>http://louwerse.github.io/publication_types/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8</title>
+      <link>http://louwerse.github.io/publication_types/8/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication_types/8/</guid>
       <description></description>
     </item>
     

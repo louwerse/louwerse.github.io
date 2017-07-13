@@ -46,7 +46,7 @@
 
 &lt;h4 id=&#34;paper&#34;&gt;Paper&lt;/h4&gt;
 
-&lt;p&gt;Louwerse, Tom (2016) &lt;a href=&#34;http://louwerse.github.io/publication/2016-louwerse-etmaal/&#34; target=&#34;_blank&#34;&gt;Pooling Opinion Polls in the Netherlands&lt;/a&gt;. Paper presented at the Dutch-Flemish Political Science Conference, Politicologenetmaal, Brussels, 2-3 June.&lt;/p&gt;
+&lt;p&gt;Louwerse, Tom (2016) &lt;a href=&#34;http://louwerse.github.io/papers&#34;&gt;Pooling Opinion Polls in the Netherlands&lt;/a&gt;. Paper presented at the Dutch-Flemish Political Science Conference, Politicologenetmaal, Brussels, 2-3 June.&lt;/p&gt;
 
 &lt;h2 id=&#34;irish-polling-indicator&#34;&gt;Irish Polling Indicator&lt;/h2&gt;
 
@@ -87,12 +87,16 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>http://louwerse.github.io/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Kun je peilingen eigenlijk wel serieus nemen?</title>
+      <link>http://louwerse.github.io/talk/2017-uvn/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://louwerse.github.io/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>http://louwerse.github.io/talk/2017-uvn/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/xJLcHCfCNw0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
 </description>
     </item>
     
@@ -114,15 +118,6 @@
       <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>http://louwerse.github.io/publication/2016-louwerse-ips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pooling Opinion Polls in the Netherlands</title>
-      <link>http://louwerse.github.io/publication/2016-louwerse-etmaal/</link>
-      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://louwerse.github.io/publication/2016-louwerse-etmaal/</guid>
       <description></description>
     </item>
     
@@ -887,6 +882,15 @@ Here&#39;s some important information...
       <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://louwerse.github.io/publication/2016-louwerse-etal-party-politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalised parliamentary behaviour without electoral incentives: the case of the Netherlands</title>
+      <link>http://louwerse.github.io/publication/2016-louwerse-otjes-wep/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://louwerse.github.io/publication/2016-louwerse-otjes-wep/</guid>
       <description></description>
     </item>
     
