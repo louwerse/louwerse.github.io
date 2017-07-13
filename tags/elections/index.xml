@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elections on Tom Louwerse</title>
-    <link>http://louwerse.github.io/tags/elections/</link>
+    <link>http://www.tomlouwerse.nl/tags/elections/</link>
     <description>Recent content in Elections on Tom Louwerse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,20 +12,20 @@
     
     <item>
       <title>Political Representation: Linking Citizens and Representatives </title>
-      <link>http://louwerse.github.io/project/political-representation/</link>
+      <link>http://www.tomlouwerse.nl/project/political-representation/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://louwerse.github.io/project/political-representation/</guid>
+      <guid>http://www.tomlouwerse.nl/project/political-representation/</guid>
       <description>&lt;p&gt;The policy link between voters and politicians has been a central issue in politics for quite some time. My work focuses on the quality of this policy link: are representatives doing what people want?&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Polling Aggregation</title>
-      <link>http://louwerse.github.io/project/polling-aggregation/</link>
+      <link>http://www.tomlouwerse.nl/project/polling-aggregation/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://louwerse.github.io/project/polling-aggregation/</guid>
+      <guid>http://www.tomlouwerse.nl/project/polling-aggregation/</guid>
       <description>
 
 &lt;p&gt;Opinion polls are an increasingly central part of election campaigns. My work focuses on the aggregation of opinion polls in Ireland and the Netherlands.&lt;/p&gt;
@@ -36,7 +36,7 @@
 
 &lt;h4 id=&#34;paper&#34;&gt;Paper&lt;/h4&gt;
 
-&lt;p&gt;Louwerse, Tom (2016) &lt;a href=&#34;http://louwerse.github.io/papers&#34;&gt;Pooling Opinion Polls in the Netherlands&lt;/a&gt;. Paper presented at the Dutch-Flemish Political Science Conference, Politicologenetmaal, Brussels, 2-3 June.&lt;/p&gt;
+&lt;p&gt;Louwerse, Tom (2016) &lt;a href=&#34;http://www.tomlouwerse.nl/papers&#34;&gt;Pooling Opinion Polls in the Netherlands&lt;/a&gt;. Paper presented at the Dutch-Flemish Political Science Conference, Politicologenetmaal, Brussels, 2-3 June.&lt;/p&gt;
 
 &lt;h2 id=&#34;irish-polling-indicator&#34;&gt;Irish Polling Indicator&lt;/h2&gt;
 
@@ -44,16 +44,16 @@
 
 &lt;h4 id=&#34;publication&#34;&gt;Publication&lt;/h4&gt;
 
-&lt;p&gt;Louwerse, Tom (2016) &lt;a href=&#34;http://louwerse.github.io/publication/2016-louwerse-ips/&#34; target=&#34;_blank&#34;&gt;Improving Opinion Poll Reporting: The Irish Polling Indicator&lt;/a&gt;, &lt;em&gt;Irish Political Studies&lt;/em&gt;, 31(4): 541-566&lt;/p&gt;
+&lt;p&gt;Louwerse, Tom (2016) &lt;a href=&#34;http://www.tomlouwerse.nl/publication/2016-louwerse-ips/&#34; target=&#34;_blank&#34;&gt;Improving Opinion Poll Reporting: The Irish Polling Indicator&lt;/a&gt;, &lt;em&gt;Irish Political Studies&lt;/em&gt;, 31(4): 541-566&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Voting Advice Applications</title>
-      <link>http://louwerse.github.io/project/vaa/</link>
+      <link>http://www.tomlouwerse.nl/project/vaa/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://louwerse.github.io/project/vaa/</guid>
+      <guid>http://www.tomlouwerse.nl/project/vaa/</guid>
       <description>&lt;p&gt;Voting Advice Applications have gained a large popular audience over the last decades, but their design has not been studied very elaborately. These tools ask voters for their opinion on a number of salient issues in an election and then present the ‘best match’ between the user’s preferences and the policy preferences of the political parties in a country. In a number of projects, together with different colleagues I have begun to unravel these issues of VAA design. The main question of these studies is: how can we be sure that these tools provide voters with good advice?&lt;/p&gt;
 </description>
     </item>
