@@ -50,8 +50,53 @@
     
     <url>
     
+      <loc>http://www.tomlouwerse.nl/talk/2017-05-13-knaw/</loc>
+      <lastmod>2017-05-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.tomlouwerse.nl/talk/2017-04-11-scl/</loc>
+      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.tomlouwerse.nl/talk/2017-03-30-jal/</loc>
+      <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.tomlouwerse.nl/talk/2017-03-08-ul/</loc>
+      <lastmod>2017-03-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.tomlouwerse.nl/publication/2017-louwerse-otjes-vanvonno-actapolitica/</loc>
       <lastmod>2017-02-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.tomlouwerse.nl/talk/2017-01-12-po/</loc>
+      <lastmod>2017-01-12T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -140,6 +185,15 @@
     
     <url>
     
+      <loc>http://www.tomlouwerse.nl/talk/2016-10-22-dwars/</loc>
+      <lastmod>2016-10-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.tomlouwerse.nl/publication/2016-louwerse-ips/</loc>
       <lastmod>2016-08-07T00:00:00+00:00</lastmod>
     </url>
@@ -149,35 +203,8 @@
     
     <url>
     
-      <loc>http://www.tomlouwerse.nl/post/getting-started/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.tomlouwerse.nl/post/widgets/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.tomlouwerse.nl/post/managing-content/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.tomlouwerse.nl/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-20T10:00:00+00:00</lastmod>
+      <loc>http://www.tomlouwerse.nl/talk/2016-05-12-fft/</loc>
+      <lastmod>2016-05-12T12:00:00+00:00</lastmod>
     </url>
     
   
@@ -286,15 +313,6 @@
     
       <loc>http://www.tomlouwerse.nl/publication/2014-louwerse-rob/</loc>
       <lastmod>2014-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.tomlouwerse.nl/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -480,26 +498,6 @@
     
       <loc>http://www.tomlouwerse.nl/tags/elections/</loc>
       <lastmod>2017-07-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.tomlouwerse.nl/tags/hugo/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://www.tomlouwerse.nl/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
