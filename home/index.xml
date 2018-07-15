@@ -8,7 +8,104 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tom Louwerse</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://www.tomlouwerse.nl/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.tomlouwerse.nl/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/home/about/</guid>
+      <description>I am an Assistant Professor in Political Science at Leiden University, the Netherlands. My research and teaching focuses on comparative politics and research methods.
+My outreach activities include polling aggregation in the Netherlands, published by the public broadcaster NOS, and Ireland. I am a contributor to the Dutch political science weblog Stuk Rood Vlees.</description>
+    </item>
+    
+    <item>
+      <title>Biography</title>
+      <link>https://www.tomlouwerse.nl/home/bio/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/home/bio/</guid>
+      <description>I am an Assistant Professor in Political Science at Leiden University, the Netherlands. My main areas of interest include political representation, parliaments, political parties, elections, polls and voting advice applications.
+ Foto: Monique Shaw   Career I studied political science at Leiden University, obtaining my Master&amp;rsquo;s degree (cum laude) in 2006 and my PhD in 2011. Part of my PhD research was completed at the University of Nottingham, where I was a guest PhD researcher in 2008.</description>
+    </item>
+    
+    <item>
+      <title>Research Themes</title>
+      <link>https://www.tomlouwerse.nl/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://www.tomlouwerse.nl/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://www.tomlouwerse.nl/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://www.tomlouwerse.nl/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/home/teaching/</guid>
+      <description>Currently teaching (2017-2018):
+ Statistics I &amp;amp; II (BSc Political Science Leiden, 1st year). Thesis Seminar Parties, Parliaments and Democracy: &amp;ldquo;Challenges to democracy&amp;rdquo; (MSc Political Science Leiden)  </description>
+    </item>
+    
+    <item>
+      <title>Blogs &amp; popular publications</title>
+      <link>https://www.tomlouwerse.nl/home/blogs/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/home/blogs/</guid>
+      <description>I am a regular contributer to Stuk Rood Vlees, a Dutch-language political science weblog. Please find an overview of my contributions here. Before April 2013, my blogs were published here.
+A list of other recent popular publications and blogs is available here.</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>https://www.tomlouwerse.nl/home/media/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/home/media/</guid>
+      <description>I regularly share my research findings and observations regarding current events in media interviews with national and international outlets, including BBC World, Bloomberg, BNR, NOS, NRC Handelsblad, RTE, Volkskrant &amp;amp; ZDF.
+A full list of recent interviews and mentions is available here</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://www.tomlouwerse.nl/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.tomlouwerse.nl/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

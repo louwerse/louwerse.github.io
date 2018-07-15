@@ -8,25 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tom Louwerse</copyright>
     <lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Parliaments: rules and behaviour</title>
-      <link>https://www.tomlouwerse.nl/project/parliaments/</link>
-      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tomlouwerse.nl/project/parliaments/</guid>
-      <description>
-
-&lt;p&gt;The digital publication of parliamentary data has provided a great incentive for the study of parliamentary behaviour. My current work focuses mainly on the Netherlands, but also Belgium and Sweden as well as country-comparative analysis.&lt;/p&gt;
-
-&lt;p&gt;The main questions that I focus on are those of patterns of parliamentary (voting) behaviour, particularly with regard to party unity and the government-opposition division in parliament. In addition, I am interested in the concept of (positive and negative) parliamentarism as well as the government formation process.&lt;/p&gt;
-
-&lt;h3 id=&#34;current-working-and-conference-papers&#34;&gt;Current (working and conference) papers&lt;/h3&gt;
-
-&lt;p&gt;Louwerse, T. (2015) The concept of &amp;lsquo;positive&amp;rsquo; and &amp;lsquo;negative&amp;rsquo; parliamentarism. Paper presented at the workshop &amp;lsquo;Vague concepts and poor operationalization – solutions to measurement problems in studies of government formation&amp;rsquo;, Stockholm, 16-18 September.&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="https://www.tomlouwerse.nl/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Political Representation: Linking Citizens and Representatives </title>
@@ -34,8 +18,7 @@
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/project/political-representation/</guid>
-      <description>&lt;p&gt;The policy link between voters and politicians has been a central issue in politics for quite some time. My work focuses on the quality of this policy link: are representatives doing what people want?&lt;/p&gt;
-</description>
+      <description>The policy link between voters and politicians has been a central issue in politics for quite some time. My work focuses on the quality of this policy link: are representatives doing what people want?</description>
     </item>
     
     <item>
@@ -44,18 +27,9 @@
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/project/polling-aggregation/</guid>
-      <description>
-
-&lt;p&gt;Opinion polls are an increasingly central part of election campaigns. My work focuses on the aggregation of opinion polls in Ireland and the Netherlands.&lt;/p&gt;
-
-&lt;h2 id=&#34;peilingwijzer&#34;&gt;Peilingwijzer&lt;/h2&gt;
-
-&lt;p&gt;The Dutch public broadcaster NOS &lt;a href=&#34;http://www.peilingwijzer.nl&#34; target=&#34;_blank&#34;&gt;publishes&lt;/a&gt; my aggregation of Dutch national opinion polls, called &lt;a href=&#34;http://peilingwijzer.tomlouwerse.nl/&#34; target=&#34;_blank&#34;&gt;&amp;lsquo;Peilingwijzer&amp;rsquo; (Polling Indicator)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;irish-polling-indicator&#34;&gt;Irish Polling Indicator&lt;/h2&gt;
-
-&lt;p&gt;My &lt;a href=&#34;http://www.pollingindicator.com/&#34; target=&#34;_blank&#34;&gt;Irish Polling Indicator&lt;/a&gt; is published regularly on politicalreform.ie.&lt;/p&gt;
-</description>
+      <description>Opinion polls are an increasingly central part of election campaigns. My work focuses on the aggregation of opinion polls in Ireland and the Netherlands.
+Peilingwijzer The Dutch public broadcaster NOS publishes my aggregation of Dutch national opinion polls, called &amp;lsquo;Peilingwijzer&amp;rsquo; (Polling Indicator).
+Irish Polling Indicator My Irish Polling Indicator is published regularly on politicalreform.ie.</description>
     </item>
     
     <item>
@@ -64,8 +38,17 @@
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/project/vaa/</guid>
-      <description>&lt;p&gt;Voting Advice Applications have gained a large popular audience over the last decades, but their design has not been studied very elaborately. These tools ask voters for their opinion on a number of salient issues in an election and then present the ‘best match’ between the user’s preferences and the policy preferences of the political parties in a country. In a number of projects, together with different colleagues I have begun to unravel these issues of VAA design. The main question of these studies is: how can we be sure that these tools provide voters with good advice?&lt;/p&gt;
-</description>
+      <description>Voting Advice Applications have gained a large popular audience over the last decades, but their design has not been studied very elaborately. These tools ask voters for their opinion on a number of salient issues in an election and then present the ‘best match’ between the user’s preferences and the policy preferences of the political parties in a country. In a number of projects, together with different colleagues I have begun to unravel these issues of VAA design.</description>
+    </item>
+    
+    <item>
+      <title>Parliaments: rules and behaviour</title>
+      <link>https://www.tomlouwerse.nl/project/parliaments/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/project/parliaments/</guid>
+      <description>The digital publication of parliamentary data has provided a great incentive for the study of parliamentary behaviour. My current work focuses mainly on the Netherlands, but also Belgium and Sweden as well as country-comparative analysis.
+The main questions that I focus on are those of patterns of parliamentary (voting) behaviour, particularly with regard to party unity and the government-opposition division in parliament. In addition, I am interested in the concept of (positive and negative) parliamentarism as well as the government formation process.</description>
     </item>
     
   </channel>

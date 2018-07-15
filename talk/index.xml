@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tom Louwerse</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://www.tomlouwerse.nl/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Parlementaire oppositie: overal en nergens?</title>
@@ -16,16 +18,9 @@
       <pubDate>Fri, 18 May 2018 13:15:00 +0200</pubDate>
       
       <guid>https://www.tomlouwerse.nl/talk/2018-05-18-andeweg/</guid>
-      <description>&lt;p&gt;Op vrijdag 18 mei 2018 neemt prof. dr. R.B. (Rudy) Andeweg officieel afscheid van de Universiteit Leiden. Voorafgaand aan zijn afscheidsrede organiseert het Instituut Politieke Wetenschap een symposium.&lt;/p&gt;
-
-&lt;p&gt;Als inleiders/sprekers van dit symposium, onder voorzitterschap van prof. dr. Galen Irwin, zullen optreden:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Prof. dr. Kris Deschouwer (Vrije Universiteit Brussel)&lt;/li&gt;
-&lt;li&gt;Prof.dr. Jacques Thomassen (Universiteit Twente)&lt;/li&gt;
-&lt;li&gt;Dr. Tom Louwerse (Universiteit Leiden)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Op vrijdag 18 mei 2018 neemt prof. dr. R.B. (Rudy) Andeweg officieel afscheid van de Universiteit Leiden. Voorafgaand aan zijn afscheidsrede organiseert het Instituut Politieke Wetenschap een symposium.
+Als inleiders/sprekers van dit symposium, onder voorzitterschap van prof. dr. Galen Irwin, zullen optreden:
+ Prof. dr. Kris Deschouwer (Vrije Universiteit Brussel) Prof.dr. Jacques Thomassen (Universiteit Twente) Dr. Tom Louwerse (Universiteit Leiden)  </description>
     </item>
     
     <item>
@@ -34,10 +29,7 @@
       <pubDate>Thu, 09 Nov 2017 10:30:00 +0100</pubDate>
       
       <guid>https://www.tomlouwerse.nl/talk/2017-11-09-vvb/</guid>
-      <description>&lt;p&gt;The Verening voor Bestuurskunde organizes together with the Netherlands Institute of Government an interactive discussion on doing valorisation. Students, PhD students, researchers, professors and wider audience discuss the scientific calling and public relevance of public administration and political science. Panel members include: prof. Sandra van Thiel (Radboud University Nijmegen), dr. Tom Louwerse (Leiden University), prof. Willem Schinkel (Erasmus University of Rotterdam), dr. Sanneke Kuipers (Leiden University), and dr. Thomas Schillemans (Utrecht University).&lt;/p&gt;
-
-&lt;p&gt;The panel discussion is led by prof. Mark Bovens (Utrecht University)&lt;/p&gt;
-</description>
+      <description>The Verening voor Bestuurskunde organizes together with the Netherlands Institute of Government an interactive discussion on doing valorisation. Students, PhD students, researchers, professors and wider audience discuss the scientific calling and public relevance of public administration and political science. Panel members include: prof. Sandra van Thiel (Radboud University Nijmegen), dr. Tom Louwerse (Leiden University), prof. Willem Schinkel (Erasmus University of Rotterdam), dr. Sanneke Kuipers (Leiden University), and dr. Thomas Schillemans (Utrecht University).</description>
     </item>
     
     <item>
@@ -91,12 +83,7 @@
       <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/talk/2017-uvn/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/xJLcHCfCNw0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <description>   </description>
     </item>
     
     <item>

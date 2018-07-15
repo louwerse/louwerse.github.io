@@ -6,8 +6,10 @@
     <description>Recent content in Categories on Tom Louwerse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Tom Louwerse</copyright>
-    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2018 Tom Louwerse</copyright>
+    
+	<atom:link href="https://www.tomlouwerse.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

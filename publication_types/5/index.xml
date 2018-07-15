@@ -6,9 +6,11 @@
     <description>Recent content in 5 on Tom Louwerse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Tom Louwerse</copyright>
+    <copyright>&amp;copy; 2018 Tom Louwerse</copyright>
     <lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/5/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://www.tomlouwerse.nl/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Politiek in een veranderende wereld: Nederland en België in vergelijkend perspectief.</title>
@@ -16,8 +18,7 @@
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/publication/2013-erk-etal-book/</guid>
-      <description>&lt;p&gt;This book offers a Dutch-language introduction to comparative politics.&lt;/p&gt;
-</description>
+      <description>This book offers a Dutch-language introduction to comparative politics.</description>
     </item>
     
     <item>
