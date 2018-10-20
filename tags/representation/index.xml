@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>representation on Tom Louwerse</title>
+    <link>https://www.tomlouwerse.nl/tags/representation/</link>
+    <description>Recent content in representation on Tom Louwerse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tom Louwerse</copyright>
+    <lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.tomlouwerse.nl/tags/representation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Political Representation: Linking Citizens and Representatives </title>
+      <link>https://www.tomlouwerse.nl/project/political-representation/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/project/political-representation/</guid>
+      <description>The policy link between voters and politicians has been a central issue in politics for quite some time. My work focuses on the quality of this policy link: are representatives doing what people want?</description>
+    </item>
+    
+    <item>
+      <title>The Nature of Political Representation in Times of Dealignment</title>
+      <link>https://www.tomlouwerse.nl/project/napre/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/project/napre/</guid>
+      <description>This project is collaborative work with Prof Thomas Zittel (Goethe Universität Frankfurt am Main) and Prof Rosie Campbell (King&amp;rsquo;s College London). It is financially supported by DFG, ESRC, and NWO under the Open Research Area (ORA). The project will start in Spring 2019.
+ Weakening partisanship in West European electorates results in increasing disconnection between citizens and the state; raising pressing questions regarding future mechanisms of political representation that could sustain responsive government.</description>
+    </item>
+    
+  </channel>
+</rss>

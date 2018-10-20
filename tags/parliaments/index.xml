@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Parliaments on Tom Louwerse</title>
+    <title>parliaments on Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/tags/parliaments/</link>
-    <description>Recent content in Parliaments on Tom Louwerse</description>
+    <description>Recent content in parliaments on Tom Louwerse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Tom Louwerse</copyright>
@@ -29,6 +29,16 @@
       <guid>https://www.tomlouwerse.nl/project/parliaments/</guid>
       <description>The digital publication of parliamentary data has provided a great incentive for the study of parliamentary behaviour. My current work focuses mainly on the Netherlands, but also Belgium and Sweden as well as country-comparative analysis.
 The main questions that I focus on are those of patterns of parliamentary (voting) behaviour, particularly with regard to party unity and the government-opposition division in parliament. In addition, I am interested in the concept of (positive and negative) parliamentarism as well as the government formation process.</description>
+    </item>
+    
+    <item>
+      <title>The Nature of Political Representation in Times of Dealignment</title>
+      <link>https://www.tomlouwerse.nl/project/napre/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/project/napre/</guid>
+      <description>This project is collaborative work with Prof Thomas Zittel (Goethe Universität Frankfurt am Main) and Prof Rosie Campbell (King&amp;rsquo;s College London). It is financially supported by DFG, ESRC, and NWO under the Open Research Area (ORA). The project will start in Spring 2019.
+ Weakening partisanship in West European electorates results in increasing disconnection between citizens and the state; raising pressing questions regarding future mechanisms of political representation that could sustain responsive government.</description>
     </item>
     
   </channel>
