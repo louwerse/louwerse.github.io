@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cynthia van Vonno on Tom Louwerse</title>
+    <link>https://www.tomlouwerse.nl/authors/cynthia-van-vonno/</link>
+    <description>Recent content in Cynthia van Vonno on Tom Louwerse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.tomlouwerse.nl/authors/cynthia-van-vonno/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Dutch Parliamentary Behaviour Dataset</title>
+      <link>https://www.tomlouwerse.nl/publication/2017-louwerse-otjes-vanvonno-actapolitica/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2017-louwerse-otjes-vanvonno-actapolitica/</guid>
+      <description>The Dutch Parliamentary Behaviour Dataset contains a record of parliamentary (voting) behaviour in the Dutch Tweede Kamer (Second Chamber, House of Representatives) since 1945.</description>
+    </item>
+    
+  </channel>
+</rss>

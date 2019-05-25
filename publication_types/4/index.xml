@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Tom Louwerse</title>
+    <link>https://www.tomlouwerse.nl/publication_types/4/</link>
+    <description>Recent content in 4 on Tom Louwerse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
+    <lastBuildDate>Wed, 28 Sep 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.tomlouwerse.nl/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Loyaal met een scherpe rand</title>
+      <link>https://www.tomlouwerse.nl/publication/2011-louwerse-otjes-ul/</link>
+      <pubDate>Wed, 28 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2011-louwerse-otjes-ul/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

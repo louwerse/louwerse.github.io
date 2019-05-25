@@ -6,7 +6,7 @@
     <description>Recent content in 5 on Tom Louwerse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Tom Louwerse</copyright>
+    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
     <lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.tomlouwerse.nl/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
@@ -19,15 +19,6 @@
       
       <guid>https://www.tomlouwerse.nl/publication/2013-erk-etal-book/</guid>
       <description>This book offers a Dutch-language introduction to comparative politics.</description>
-    </item>
-    
-    <item>
-      <title>Political parties and the democratic mandate. Comparing Collective mandate fulfilment in the United Kingdom and the Netherlands.</title>
-      <link>https://www.tomlouwerse.nl/publication/2011-louwerse-thesis/</link>
-      <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tomlouwerse.nl/publication/2011-louwerse-thesis/</guid>
-      <description></description>
     </item>
     
   </channel>

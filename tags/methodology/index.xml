@@ -6,7 +6,7 @@
     <description>Recent content in methodology on Tom Louwerse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Tom Louwerse</copyright>
+    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
     <lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.tomlouwerse.nl/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,7 @@
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/project/polling-aggregation/</guid>
-      <description>Opinion polls are an increasingly central part of election campaigns. My work focuses on the aggregation of opinion polls in Ireland and the Netherlands.
-Peilingwijzer The Dutch public broadcaster NOS publishes my aggregation of Dutch national opinion polls, called &amp;lsquo;Peilingwijzer&amp;rsquo; (Polling Indicator).
-Irish Polling Indicator My Irish Polling Indicator is published regularly on politicalreform.ie.</description>
+      <description>Peilingwijzer and the Irish Polling Indicator pool Dutch and Irish opinion polls respectively</description>
     </item>
     
     <item>
@@ -29,7 +27,7 @@ Irish Polling Indicator My Irish Polling Indicator is published regularly on pol
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/project/vaa/</guid>
-      <description>Voting Advice Applications have gained a large popular audience over the last decades, but their design has not been studied very elaborately. These tools ask voters for their opinion on a number of salient issues in an election and then present the ‘best match’ between the user’s preferences and the policy preferences of the political parties in a country. In a number of projects, together with different colleagues I have begun to unravel these issues of VAA design.</description>
+      <description>VAAs help voters during elections. I study their design.</description>
     </item>
     
   </channel>

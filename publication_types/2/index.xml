@@ -6,11 +6,20 @@
     <description>Recent content in 2 on Tom Louwerse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Tom Louwerse</copyright>
-    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.tomlouwerse.nl/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Populists Wage Opposition: Parliamentary Opposition Behaviour and Populism in Netherlands</title>
+      <link>https://www.tomlouwerse.nl/publication/2018-louwerse-otjes/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2018-louwerse-otjes/</guid>
+      <description>This article analyses how populist parties wage opposition in parliament. Our findings indicate that populist opposition parties are particularly less likely to engage in policy-making behaviour and somewhat more likely to engage in scrutiny behaviour.</description>
+    </item>
     
     <item>
       <title>The electoral cycle effect in parliamentary democracies</title>
@@ -18,16 +27,7 @@
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/publication/2018-muller-louwerse-psrm/</guid>
-      <description> This is an open access publication    </description>
-    </item>
-    
-    <item>
-      <title>How Populists Wage Opposition: Parliamentary Opposition Behaviour and Populism in Netherlands</title>
-      <link>https://www.tomlouwerse.nl/publication/2018-louwerse-otjes/</link>
-      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tomlouwerse.nl/publication/2018-louwerse-otjes/</guid>
-      <description> This is an open access publication   </description>
+      <description>Does government party support decline in a monotonic fashion throughout the legislative cycle or do we observe a u-shaped “electoral cycle effect”? Moving beyond the study of midterm election results, this is the first comparative study to assess the cyclical pulse of government party support in parliamentary democracies based on voting intention polls from 171 cycles in 22 countries.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/publication/2017-otjes-louwerse-wep/</guid>
-      <description> This is an open access publication   </description>
+      <description>This paper shifts the analysis of parliamentary oversight tools to the level of the political party, asking how political parties make use of written parliamentary questions.</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/publication/2017-louwerse-otjes-vanvonno-actapolitica/</guid>
-      <description></description>
+      <description>The Dutch Parliamentary Behaviour Dataset contains a record of parliamentary (voting) behaviour in the Dutch Tweede Kamer (Second Chamber, House of Representatives) since 1945.</description>
     </item>
     
     <item>
@@ -72,7 +72,7 @@
       <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/publication/2016-rosema-louwerse-pi/</guid>
-      <description> This is an open access publication   </description>
+      <description>This article examines the effects of design choices on these tools by focusing on the response scale that is used to measure the policy positions of parties and voters.</description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@
       <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/publication/2016-louwerse-ips/</guid>
-      <description> This is an open access publication   </description>
+      <description>This article describes a statistical method for aggregating the information from Irish opinion polls.</description>
     </item>
     
     <item>
@@ -90,7 +90,7 @@
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/publication/2016-louwerse-otjes-wep/</guid>
-      <description></description>
+      <description>Most theories of legislative behaviour explain the behaviour of MPs through electoral incentives. However, they fail to explain variation in parliamentary activity when individual electoral incentives are largely absent.</description>
     </item>
     
     <item>
@@ -157,6 +157,15 @@
     </item>
     
     <item>
+      <title>Peilingen in het nieuws: van hypes naar trends</title>
+      <link>https://www.tomlouwerse.nl/publication/2013-louwerse-benm/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2013-louwerse-benm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Design challenges in cross-national VAAs: the case of the EU Profiler</title>
       <link>https://www.tomlouwerse.nl/publication/2012-louwerse-otjes-ijeg/</link>
       <pubDate>Sun, 30 Dec 2012 00:00:00 +0000</pubDate>
@@ -171,6 +180,15 @@
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/publication/2012-louwerse-rp/</guid>
+      <description>This article studies the extent to which Dutch political parties fulfil their electoral mandates.</description>
+    </item>
+    
+    <item>
+      <title>Feitenvrije vs meningenvrije politiek</title>
+      <link>https://www.tomlouwerse.nl/publication/2012-louwerse-idee/</link>
+      <pubDate>Thu, 18 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2012-louwerse-idee/</guid>
       <description></description>
     </item>
     
@@ -180,7 +198,7 @@
       <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/publication/2012-louwerse-wep/</guid>
-      <description></description>
+      <description>This article studies collective party mandate fulfilment by comparing parties’ election manifestos with the parliamentary speeches of their politicians in two countries: a typical consensus democracy, the Netherlands, and a typical majoritarian democracy, the United Kingdom.</description>
     </item>
     
     <item>
@@ -189,7 +207,16 @@
       <pubDate>Fri, 25 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/publication/2011-louwerse-pa/</guid>
-      <description></description>
+      <description>This article applies spatial theory to the question of the party mandate.</description>
+    </item>
+    
+    <item>
+      <title>Mapping Policy Preferences II: Estimates for Parties, Electors, and Governments in Eastern Europe, European Union and OECD 1990-2003 [Book review]</title>
+      <link>https://www.tomlouwerse.nl/publication/2009-louwerse-actapolitica/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2009-louwerse-actapolitica/</guid>
+      <description>Book review of Mapping Policy Preferences II</description>
     </item>
     
   </channel>

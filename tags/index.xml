@@ -6,19 +6,28 @@
     <description>Recent content in Tags on Tom Louwerse</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Tom Louwerse</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://www.tomlouwerse.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://www.tomlouwerse.nl/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>parliaments</title>
+      <link>https://www.tomlouwerse.nl/tags/parliaments/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://www.tomlouwerse.nl/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
+      <guid>https://www.tomlouwerse.nl/tags/parliaments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>representation</title>
+      <link>https://www.tomlouwerse.nl/tags/representation/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/tags/representation/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -40,21 +49,12 @@
     </item>
     
     <item>
-      <title>parliaments</title>
-      <link>https://www.tomlouwerse.nl/tags/parliaments/</link>
-      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>https://www.tomlouwerse.nl/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.tomlouwerse.nl/tags/parliaments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>representation</title>
-      <link>https://www.tomlouwerse.nl/tags/representation/</link>
-      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tomlouwerse.nl/tags/representation/</guid>
-      <description></description>
+      <guid>https://www.tomlouwerse.nl/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
   </channel>

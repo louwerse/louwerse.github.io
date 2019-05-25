@@ -1,14 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tom Louwerse on Tom Louwerse</title>
+    <title>Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/</link>
-    <description>Recent content in Tom Louwerse on Tom Louwerse</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on Tom Louwerse</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Tom Louwerse</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://www.tomlouwerse.nl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Populists Wage Opposition: Parliamentary Opposition Behaviour and Populism in Netherlands</title>
+      <link>https://www.tomlouwerse.nl/publication/2018-louwerse-otjes/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2018-louwerse-otjes/</guid>
+      <description>
+
+&lt;h3 id=&#34;this-is-an-open-access-publication-i-class-ai-ai-open-access-i-i-class-fab-fa-creative-commons-i&#34;&gt;This is an open access publication &lt;i class=&#34;ai ai-open-access&#34;&gt;&lt;/i&gt; &lt;i class=&#34;fab fa-creative-commons&#34;&gt;&lt;/i&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inleiding Haagse Tafeltjesavond SIB</title>
+      <link>https://www.tomlouwerse.nl/talk/2019-04-17-sib/</link>
+      <pubDate>Wed, 17 Apr 2019 19:00:00 +0200</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/talk/2019-04-17-sib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Stem des Volks</title>
+      <link>https://www.tomlouwerse.nl/talk/2018-11-16-alumni-event/</link>
+      <pubDate>Fri, 16 Nov 2018 13:00:00 +0100</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/talk/2018-11-16-alumni-event/</guid>
+      <description>&lt;p&gt;De Faculteit der Sociale Wetenschappen organiseert deze middag haar 1e alumni event met het thema de uitwisseling tussen wetenschap en praktijk. Waar staat het onderzoek binnen Culturele Antropologie, Pedagogische Wetenschappen en Psychologie nu? Hoe slaan we een brug met het praktische werkveld en onze maatschappelijke omgeving? Hoe kan de wetenschap de ervaringen en innovaties uit de praktijk meenemen? En waar liggen kansen om gezamenlijk op te trekken? Onze wetenschappers vertellen vanuit hun eigen discipline en alumni brengen de ervaringen uit het werkveld.&lt;/p&gt;
+
+&lt;p&gt;Ik spreek over politieke peilingen en de Peilingwijzer in het bijzonder.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The electoral cycle effect in parliamentary democracies</title>
@@ -23,24 +58,28 @@
     </item>
     
     <item>
-      <title>De Stem des Volks</title>
-      <link>https://www.tomlouwerse.nl/talk/2018-11-16-alumni-event/</link>
-      <pubDate>Tue, 16 Oct 2018 13:00:00 +0200</pubDate>
-      
-      <guid>https://www.tomlouwerse.nl/talk/2018-11-16-alumni-event/</guid>
-      <description>&lt;p&gt;De Faculteit der Sociale Wetenschappen organiseert deze middag haar 1e alumni event met het thema de uitwisseling tussen wetenschap en praktijk. Waar staat het onderzoek binnen Culturele Antropologie, Pedagogische Wetenschappen en Psychologie nu? Hoe slaan we een brug met het praktische werkveld en onze maatschappelijke omgeving? Hoe kan de wetenschap de ervaringen en innovaties uit de praktijk meenemen? En waar liggen kansen om gezamenlijk op te trekken? Onze wetenschappers vertellen vanuit hun eigen discipline en alumni brengen de ervaringen uit het werkveld.&lt;/p&gt;
-
-&lt;p&gt;Ik spreek over politieke peilingen en de Peilingwijzer in het bijzonder.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Helpen stemhulpen?</title>
       <link>https://www.tomlouwerse.nl/talk/2018-10-16-prodemos/</link>
       <pubDate>Tue, 16 Oct 2018 12:30:00 +0200</pubDate>
       
       <guid>https://www.tomlouwerse.nl/talk/2018-10-16-prodemos/</guid>
       <description>&lt;p&gt;During the first ProDemos &amp;lsquo;knowledge lunch&amp;rsquo; I presented academic research by others and myself on &amp;lsquo;voting advice applications&amp;rsquo;. I talked about their impact and their design, as well as how their design impacts upon the advice they provide.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Nature of Political Representation in Times of Dealignment</title>
+      <link>https://www.tomlouwerse.nl/project/napre/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/project/napre/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This project is collaborative work with &lt;a href=&#34;http://www.goethe-university-frankfurt.de/50240689/tzittel&#34; target=&#34;_blank&#34;&gt;Prof Thomas Zittel&lt;/a&gt; (Goethe Universität Frankfurt am Main) and &lt;a href=&#34;https://twitter.com/profrosiecamp&#34; target=&#34;_blank&#34;&gt;Prof Rosie Campbell&lt;/a&gt; (King&amp;rsquo;s College London). It is financially supported by DFG, ESRC, and NWO under the &lt;a href=&#34;https://www.nwo.nl/en/news-and-events/news/2018/10/fourteen-dutch-researchers-funded-for-collaborative-projects-across-europe-and-japan.html&#34; target=&#34;_blank&#34;&gt;Open Research Area (ORA)&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Weakening partisanship in West European electorates results in increasing disconnection between citizens and the state; raising pressing questions regarding future mechanisms of political representation that could sustain responsive government. To explore this serious challenge to democratic governance, this project investigates the viability, and conditions of, dyadic forms of representation in established European democracies. We particularly aim to study whether individual MPs pay attention to citizen-initiated inquiries in low information environments, what types of cues most often gain their attention, and how electoral contexts condition the interactions of citizens and MPs.&lt;/p&gt;
 </description>
     </item>
     
@@ -69,18 +108,6 @@
 &lt;li&gt;Prof.dr. Jacques Thomassen (Universiteit Twente)&lt;/li&gt;
 &lt;li&gt;Dr. Tom Louwerse (Universiteit Leiden)&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How Populists Wage Opposition: Parliamentary Opposition Behaviour and Populism in Netherlands</title>
-      <link>https://www.tomlouwerse.nl/publication/2018-louwerse-otjes/</link>
-      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tomlouwerse.nl/publication/2018-louwerse-otjes/</guid>
-      <description>
-
-&lt;h3 id=&#34;this-is-an-open-access-publication-i-class-ai-ai-open-access-i-i-class-fab-fa-creative-commons-i&#34;&gt;This is an open access publication &lt;i class=&#34;ai ai-open-access&#34;&gt;&lt;/i&gt; &lt;i class=&#34;fab fa-creative-commons&#34;&gt;&lt;/i&gt;&lt;/h3&gt;
 </description>
     </item>
     
@@ -181,6 +208,349 @@
 
 &lt;p&gt;My &lt;a href=&#34;http://www.pollingindicator.com/&#34; target=&#34;_blank&#34;&gt;Irish Polling Indicator&lt;/a&gt; is published regularly on politicalreform.ie.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Voting Advice Applications</title>
+      <link>https://www.tomlouwerse.nl/project/vaa/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/project/vaa/</guid>
+      <description>&lt;p&gt;Voting Advice Applications have gained a large popular audience over the last decades, but their design has not been studied very elaborately. These tools ask voters for their opinion on a number of salient issues in an election and then present the ‘best match’ between the user’s preferences and the policy preferences of the political parties in a country. In a number of projects, together with different colleagues I have begun to unravel these issues of VAA design. The main question of these studies is: how can we be sure that these tools provide voters with good advice?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parliaments: rules and behaviour</title>
+      <link>https://www.tomlouwerse.nl/project/parliaments/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/project/parliaments/</guid>
+      <description>&lt;p&gt;The digital publication of parliamentary data has provided a great incentive for the study of parliamentary behaviour. My current work focuses mainly on the Netherlands, but also Belgium and Sweden as well as country-comparative analysis.&lt;/p&gt;
+
+&lt;p&gt;The main questions that I focus on are those of patterns of parliamentary (voting) behaviour, particularly with regard to party unity and the government-opposition division in parliament. In addition, I am interested in the concept of (positive and negative) parliamentarism as well as the government formation process.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rol en reikwijdte van de peilingen</title>
+      <link>https://www.tomlouwerse.nl/talk/2017-05-13-knaw/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/talk/2017-05-13-knaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waarom zou je peilingen serieus nemen?</title>
+      <link>https://www.tomlouwerse.nl/talk/2017-04-11-scl/</link>
+      <pubDate>Tue, 11 Apr 2017 20:00:00 +0200</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/talk/2017-04-11-scl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waarom zou je peilingen serieus nemen?</title>
+      <link>https://www.tomlouwerse.nl/talk/2017-03-30-jal/</link>
+      <pubDate>Thu, 30 Mar 2017 20:00:00 +0200</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/talk/2017-03-30-jal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Een verdeeld electoraat?</title>
+      <link>https://www.tomlouwerse.nl/talk/2017-03-08-ul/</link>
+      <pubDate>Wed, 08 Mar 2017 16:15:00 +0100</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/talk/2017-03-08-ul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peilingen: waarom, hoe en waartoe?</title>
+      <link>https://www.tomlouwerse.nl/talk/2017-01-12-po/</link>
+      <pubDate>Thu, 12 Jan 2017 14:00:00 +0100</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/talk/2017-01-12-po/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kun je peilingen eigenlijk wel serieus nemen?</title>
+      <link>https://www.tomlouwerse.nl/talk/2017-uvn/</link>
+      <pubDate>Wed, 11 Jan 2017 20:00:00 +0100</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/talk/2017-uvn/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/xJLcHCfCNw0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Response Scales in Voting Advice Applications: Do Different Designs Produce Different Outcomes?</title>
+      <link>https://www.tomlouwerse.nl/publication/2016-rosema-louwerse-pi/</link>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2016-rosema-louwerse-pi/</guid>
+      <description>
+
+&lt;h3 id=&#34;this-is-an-open-access-publication-i-class-ai-ai-open-access-i-i-class-fab-fa-creative-commons-i&#34;&gt;This is an open access publication &lt;i class=&#34;ai ai-open-access&#34;&gt;&lt;/i&gt; &lt;i class=&#34;fab fa-creative-commons&#34;&gt;&lt;/i&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Campagne 2017: Kiesgedrag, peilingen &amp; beloftes</title>
+      <link>https://www.tomlouwerse.nl/talk/2016-10-22-dwars/</link>
+      <pubDate>Sat, 22 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/talk/2016-10-22-dwars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving opinion poll reporting: the Irish Polling Indicator</title>
+      <link>https://www.tomlouwerse.nl/publication/2016-louwerse-ips/</link>
+      <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2016-louwerse-ips/</guid>
+      <description>
+
+&lt;h3 id=&#34;this-is-an-open-access-publication-i-class-ai-ai-open-access-i-i-class-fab-fa-creative-commons-i&#34;&gt;This is an open access publication &lt;i class=&#34;ai ai-open-access&#34;&gt;&lt;/i&gt; &lt;i class=&#34;fab fa-creative-commons&#34;&gt;&lt;/i&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond intuition: how sensible use of methodology can improve scientific research</title>
+      <link>https://www.tomlouwerse.nl/talk/2016-05-12-fft/</link>
+      <pubDate>Thu, 12 May 2016 12:00:00 +0200</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/talk/2016-05-12-fft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalised parliamentary behaviour without electoral incentives: the case of the Netherlands</title>
+      <link>https://www.tomlouwerse.nl/publication/2016-louwerse-otjes-wep/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2016-louwerse-otjes-wep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Parliamentary Specialisation on Cosponsorship</title>
+      <link>https://www.tomlouwerse.nl/publication/2015-louwerse-otjes-jls/</link>
+      <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2015-louwerse-otjes-jls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Populists in Parliament: Comparing Left-Wing and Right-Wing Populism in the Netherlands</title>
+      <link>https://www.tomlouwerse.nl/publication/2015-otjes-louwerse-ps/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2015-otjes-louwerse-ps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial models in voting advice applications</title>
+      <link>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-es/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Special Majority Cabinet? Supported Minority Governance and Parliamentary Behavior in the Netherlands</title>
+      <link>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-wpsr/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-wpsr/</guid>
+      <description>&lt;p&gt;This is an English-language version of Otjes &amp;amp; Louwerse (2013) Res Publica 55(4), 459-480&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Een middenkabinet of een minderheidskabinet?</title>
+      <link>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-mi/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-mi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The design effects of voting advice applications: Comparing methods of calculating matches</title>
+      <link>https://www.tomlouwerse.nl/publication/2014-louwerse-rosema-actapolitica/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2014-louwerse-rosema-actapolitica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parliament without Government: The Belgian Parliament and the Government Formation Processes of 2007–2011</title>
+      <link>https://www.tomlouwerse.nl/publication/2014-vanaelst-louwerse-wep/</link>
+      <pubDate>Tue, 13 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2014-vanaelst-louwerse-wep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keeping promises: VAAs and political representation</title>
+      <link>https://www.tomlouwerse.nl/publication/2014-fivaz-etal-bc/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2014-fivaz-etal-bc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verkiezingsbeloften: een verouderd ritueel? [Election promises: an obsolete ritual?]</title>
+      <link>https://www.tomlouwerse.nl/publication/2014-louwerse-rob/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2014-louwerse-rob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Een bijzonder meerderheidskabinet? Parlementair gedrag tijdens het kabinet Rutte-I</title>
+      <link>https://www.tomlouwerse.nl/publication/2013-otjes-louwerse-rp/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2013-otjes-louwerse-rp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politiek in een veranderende wereld: Nederland en België in vergelijkend perspectief.</title>
+      <link>https://www.tomlouwerse.nl/publication/2013-erk-etal-book/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2013-erk-etal-book/</guid>
+      <description>&lt;p&gt;This book offers a Dutch-language introduction to comparative politics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Peilingen in het nieuws: van hypes naar trends</title>
+      <link>https://www.tomlouwerse.nl/publication/2013-louwerse-benm/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2013-louwerse-benm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design challenges in cross-national VAAs: the case of the EU Profiler</title>
+      <link>https://www.tomlouwerse.nl/publication/2012-louwerse-otjes-ijeg/</link>
+      <pubDate>Sun, 30 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2012-louwerse-otjes-ijeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Het democratisch mandaat van Nederlandse politieke partijen: crisis of continuïteit?</title>
+      <link>https://www.tomlouwerse.nl/publication/2012-louwerse-rp/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2012-louwerse-rp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leven van Dick Dolman. [Bespreking van: Politiek samenspel: biografische notities]</title>
+      <link>https://www.tomlouwerse.nl/publication/2012-louwerse-ob/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2012-louwerse-ob/</guid>
+      <description>
+
+&lt;h2 id=&#34;leven-van-dick-dolman&#34;&gt;Leven van Dick Dolman&lt;/h2&gt;
+
+&lt;p&gt;Tien jaar lang was Dick Dolman voorzitter van de Tweede Kamer (1979-1989). In Politiek samenspel kijkt hij terug op zijn privéleven en carrière aan de hand van de mensen die hij daarin ontmoette; in elk hoofdstuk staat één van hen centraal.&lt;/p&gt;
+
+&lt;p&gt;De lezer maakt allereerst in staccato kennis met (groot)ouders en familie- en studievrienden. Hoewel dit een aardig inzicht biedt in de ambities van de jonge Dolman, die op jonge leeftijd al op zomerkamp naar de VS gaat en zich later actief in het studentenleven mengt, wordt maar weinig duidelijk over zijn (politieke) keuzes. Waarom een studie economie en actief voor de PvdA? Het lijkt hem te overkomen. Wel is helder dat Dolman al vroeg de basis legde voor een partijpolitieke carrière, want veel van zijn latere PvdA-collega’s leert hij in deze periode al kennen.&lt;/p&gt;
+
+&lt;p&gt;De terugblik op zijn periode als Kamervoorzitter richt zich veelal op zijn representatieve taken. Over het werk in de Kamer valt maar weinig te lezen, met uitzondering van enkele van elders overgenomen toespraken en bijdragen. Zo wordt aan zijn eigen verkiezing als Kamervoorzitter slechts een enkele alinea besteed, terwijl het interessant zou zijn om te lezen hoe de gang van zaken destijds afwijkt van de open procedure waarin voorzitters sinds 2002 worden verkozen. Een inkijkje in de dagelijkse werkzaamheden van de voorzitter wordt geboden wanneer Dolman beschrijft dat hij soms alle fracties liet nabellen als nog niet de nodige 76 leden de presentielijst hadden getekend of als hij de uitbreiding van de personele ondersteuning van Kamerleden en de verbouwing van het Kamergebouw optekent.&lt;/p&gt;
+
+&lt;p&gt;Politiek samenspel is vooral een commentaar op gebeurtenissen in Dolmans carrière. Het biedt de lezer weinig context, waardoor het soms lastig te volgen zal zijn voor iemand die niet (meer) zo goed bekend is met de parlementaire geschiedenis van de jaren ’70 en ’80. Zelf vermeldt Dolman dat hij lang geen memoires wilde schrijven omdat hij in de politiek ‘geen echt belangrijke dingen’ zou hebben gedaan. Daarmee onderschat hij wellicht onbedoeld zijn rol als Kamervoorzitter. Dit boek smaakt naar meer, juist daarover.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feitenvrije vs meningenvrije politiek</title>
+      <link>https://www.tomlouwerse.nl/publication/2012-louwerse-idee/</link>
+      <pubDate>Thu, 18 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2012-louwerse-idee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanisms of Issue Congruence: The Democratic Party Mandate</title>
+      <link>https://www.tomlouwerse.nl/publication/2012-louwerse-wep/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2012-louwerse-wep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political parties and the democratic mandate. Comparing Collective mandate fulfilment in the United Kingdom and the Netherlands.</title>
+      <link>https://www.tomlouwerse.nl/publication/2011-louwerse-thesis/</link>
+      <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2011-louwerse-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loyaal met een scherpe rand</title>
+      <link>https://www.tomlouwerse.nl/publication/2011-louwerse-otjes-ul/</link>
+      <pubDate>Wed, 28 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2011-louwerse-otjes-ul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Spatial Approach to the Party Mandate</title>
+      <link>https://www.tomlouwerse.nl/publication/2011-louwerse-pa/</link>
+      <pubDate>Fri, 25 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2011-louwerse-pa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kies voor de liberale democratie</title>
+      <link>https://www.tomlouwerse.nl/publication/2010-otjes-louwerse-helling/</link>
+      <pubDate>Tue, 21 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2010-otjes-louwerse-helling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Policy Preferences II: Estimates for Parties, Electors, and Governments in Eastern Europe, European Union and OECD 1990-2003 [Book review]</title>
+      <link>https://www.tomlouwerse.nl/publication/2009-louwerse-actapolitica/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2009-louwerse-actapolitica/</guid>
+      <description></description>
     </item>
     
   </channel>
