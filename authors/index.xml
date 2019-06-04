@@ -31,6 +31,16 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://www.tomlouwerse.nl/authors/admin/</link>
+      <pubDate>Wed, 17 Apr 2019 19:00:00 +0200</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/authors/admin/</guid>
+      <description>I am an Assistant Professor in Political Science at Leiden University, the Netherlands. My research and teaching focuses on elections, political representation and parliamentary politics in the Netherlands and other established democracies.
+My outreach activities include Peilingwijzer, a poll aggregation project in collaboration with the the Dutch public broadcaster NOS. I am a contributor to the Dutch political science weblog Stuk Rood Vlees.</description>
+    </item>
+    
+    <item>
       <title>Stefan Müller</title>
       <link>https://www.tomlouwerse.nl/authors/stefan-m%C3%BCller/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
@@ -145,16 +155,6 @@
       
       <guid>https://www.tomlouwerse.nl/authors/kavita-heijstek-ziemann/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.tomlouwerse.nl/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tomlouwerse.nl/authors/admin/</guid>
-      <description>I am an Assistant Professor in Political Science at Leiden University, the Netherlands. My research and teaching focuses on elections, political representation and parliamentary politics in the Netherlands and other established democracies.
-My outreach activities include Peilingwijzer, a poll aggregation project in collaboration with the the Dutch public broadcaster NOS. I am a contributor to the Dutch political science weblog Stuk Rood Vlees.</description>
     </item>
     
   </channel>
