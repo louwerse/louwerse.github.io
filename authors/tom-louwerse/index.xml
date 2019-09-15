@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.tomlouwerse.nl/authors/tom-louwerse/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The political dynamics of portfolio design in European democracies</title>
+      <link>https://www.tomlouwerse.nl/publication/2019-sieberer-et-al/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2019-sieberer-et-al/</guid>
+      <description>Note: my contribution to this article was limited to the collection of data on the case of the Netherlands and workshop participation related to this research project.</description>
+    </item>
     
     <item>
       <title>How Populists Wage Opposition: Parliamentary Opposition Behaviour and Populism in Netherlands</title>
@@ -266,20 +275,20 @@ De lezer maakt allereerst in staccato kennis met (groot)ouders en familie- en st
     </item>
     
     <item>
-      <title>Political parties and the democratic mandate. Comparing Collective mandate fulfilment in the United Kingdom and the Netherlands.</title>
-      <link>https://www.tomlouwerse.nl/publication/2011-louwerse-thesis/</link>
-      <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tomlouwerse.nl/publication/2011-louwerse-thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Loyaal met een scherpe rand</title>
       <link>https://www.tomlouwerse.nl/publication/2011-louwerse-otjes-ul/</link>
       <pubDate>Wed, 28 Sep 2011 00:00:00 +0000</pubDate>
       
       <guid>https://www.tomlouwerse.nl/publication/2011-louwerse-otjes-ul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political parties and the democratic mandate. Comparing Collective mandate fulfilment in the United Kingdom and the Netherlands.</title>
+      <link>https://www.tomlouwerse.nl/publication/2011-louwerse-thesis/</link>
+      <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/publication/2011-louwerse-thesis/</guid>
       <description></description>
     </item>
     

@@ -4,13 +4,96 @@
   
   <url>
     <loc>https://www.tomlouwerse.nl/publication_types/2/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/albert-falc%C3%B3-gimeno/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/andrea-ceron/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.tomlouwerse.nl/authors/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/hanna-b%C3%A4ck/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/isabelle-guinaudeau/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/kristoffer-kolltveit/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/martin-eljnar-hansen/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/publication_types/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/publication/2019-sieberer-et-al/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/thomas-meyer/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/thomas-persson/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/tom-louwerse/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/ulrich-sieberer/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/wolfgang-c.-m%C3%BCller/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,25 +103,7 @@
   </url>
   
   <url>
-    <loc>https://www.tomlouwerse.nl/publication_types/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.tomlouwerse.nl/authors/simon-otjes/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/authors/tom-louwerse/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/</loc>
     <lastmod>2019-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -446,17 +511,6 @@
   </url>
   
   <url>
-    <loc>https://www.tomlouwerse.nl/publication_types/7/</loc>
-    <lastmod>2012-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/publication/2011-louwerse-thesis/</loc>
-    <lastmod>2012-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.tomlouwerse.nl/publication_types/4/</loc>
     <lastmod>2011-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -465,6 +519,17 @@
   <url>
     <loc>https://www.tomlouwerse.nl/publication/2011-louwerse-otjes-ul/</loc>
     <lastmod>2011-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/publication_types/7/</loc>
+    <lastmod>2011-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/publication/2011-louwerse-thesis/</loc>
+    <lastmod>2011-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
