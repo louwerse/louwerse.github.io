@@ -3,6 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.tomlouwerse.nl/project/</loc>
+    <lastmod>2019-10-02T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/tags/</loc>
+    <lastmod>2019-10-02T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/</loc>
+    <lastmod>2019-10-02T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/project/who-opposes/</loc>
+    <lastmod>2019-10-02T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/tags/parliaments/</loc>
+    <lastmod>2019-10-02T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/tags/representation/</loc>
+    <lastmod>2019-10-02T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/publication_types/6/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/publication/2019-otjes-louwerse-wilders-gewogen/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/publication_types/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/simon-otjes/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/tom-louwerse/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.tomlouwerse.nl/publication_types/2/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -16,12 +86,6 @@
   
   <url>
     <loc>https://www.tomlouwerse.nl/authors/andrea-ceron/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/authors/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -51,12 +115,6 @@
   </url>
   
   <url>
-    <loc>https://www.tomlouwerse.nl/publication_types/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.tomlouwerse.nl/publication/2019-sieberer-et-al/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
   </url>
@@ -69,18 +127,6 @@
   
   <url>
     <loc>https://www.tomlouwerse.nl/authors/thomas-persson/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/authors/tom-louwerse/</loc>
-    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -100,12 +146,6 @@
   <url>
     <loc>https://www.tomlouwerse.nl/publication/2018-louwerse-otjes/</loc>
     <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/authors/simon-otjes/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -145,32 +185,8 @@
   </url>
   
   <url>
-    <loc>https://www.tomlouwerse.nl/project/</loc>
-    <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/tags/</loc>
-    <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.tomlouwerse.nl/project/napre/</loc>
     <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/tags/parliaments/</loc>
-    <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/tags/representation/</loc>
-    <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -181,12 +197,6 @@
   <url>
     <loc>https://www.tomlouwerse.nl/talk/2018-05-18-andeweg/</loc>
     <lastmod>2018-05-18T13:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/publication_types/6/</loc>
-    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

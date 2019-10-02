@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.tomlouwerse.nl/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Simon Otjes</title>
+      <link>https://www.tomlouwerse.nl/authors/simon-otjes/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/authors/simon-otjes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tom Louwerse</title>
+      <link>https://www.tomlouwerse.nl/authors/tom-louwerse/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tomlouwerse.nl/authors/tom-louwerse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Albert Falcó-Gimeno</title>
@@ -85,15 +103,6 @@
     </item>
     
     <item>
-      <title>Tom Louwerse</title>
-      <link>https://www.tomlouwerse.nl/authors/tom-louwerse/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tomlouwerse.nl/authors/tom-louwerse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ulrich Sieberer</title>
       <link>https://www.tomlouwerse.nl/authors/ulrich-sieberer/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
@@ -112,22 +121,13 @@
     </item>
     
     <item>
-      <title>Simon Otjes</title>
-      <link>https://www.tomlouwerse.nl/authors/simon-otjes/</link>
-      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tomlouwerse.nl/authors/simon-otjes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://www.tomlouwerse.nl/authors/admin/</link>
       <pubDate>Wed, 17 Apr 2019 19:00:00 +0200</pubDate>
       
       <guid>https://www.tomlouwerse.nl/authors/admin/</guid>
       <description>I am an Associate Professor in Political Science at Leiden University, the Netherlands. My research and teaching focuses on elections, political representation and parliamentary politics in the Netherlands and other established democracies.
-My outreach activities include Peilingwijzer, a poll aggregation project in collaboration with the the Dutch public broadcaster NOS. I am a contributor to the Dutch political science weblog Stuk Rood Vlees.</description>
+Currently, I am working on two major research project. The Nature of Political Representation in Times of Dealignment, supported by the Open Research Area, studies various forms of political representation. The project Who opposes? focuses on government-opposition cooperation in parliament and is supported by a Vidi grant from the Dutch Research Council (NWO).</description>
     </item>
     
     <item>
