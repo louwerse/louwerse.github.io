@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stefan Müller on Tom Louwerse</title>
+    <title>Stefan Müller | Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/authors/stefan-m%C3%BCller/</link>
-    <description>Recent content in Stefan Müller on Tom Louwerse</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.tomlouwerse.nl/authors/stefan-m%C3%BCller/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.tomlouwerse.nl/authors/stefan-m%C3%BCller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefan Müller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>Stefan Müller</title>
+      <link>https://www.tomlouwerse.nl/authors/stefan-m%C3%BCller/</link>
+    </image>
     
     <item>
       <title>The electoral cycle effect in parliamentary democracies</title>
       <link>https://www.tomlouwerse.nl/publication/2018-muller-louwerse-psrm/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2018-muller-louwerse-psrm/</guid>
-      <description>Does government party support decline in a monotonic fashion throughout the legislative cycle or do we observe a u-shaped “electoral cycle effect”? Moving beyond the study of midterm election results, this is the first comparative study to assess the cyclical pulse of government party support in parliamentary democracies based on voting intention polls from 171 cycles in 22 countries.</description>
+      <description>
+
+&lt;h3 id=&#34;this-is-an-open-access-publication-i-class-ai-ai-open-access-i-i-class-fab-fa-creative-commons-i-i-class-fab-fa-creative-commons-by-i&#34;&gt;This is an open access publication &lt;i class=&#34;ai ai-open-access&#34;&gt;&lt;/i&gt; &lt;i class=&#34;fab fa-creative-commons&#34;&gt;&lt;/i&gt; &lt;i class=&#34;fab fa-creative-commons-by&#34;&gt;&lt;/i&gt;&lt;/h3&gt;
+</description>
     </item>
     
   </channel>

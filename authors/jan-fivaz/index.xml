@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jan Fivaz on Tom Louwerse</title>
+    <title>Jan Fivaz | Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/authors/jan-fivaz/</link>
-    <description>Recent content in Jan Fivaz on Tom Louwerse</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.tomlouwerse.nl/authors/jan-fivaz/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.tomlouwerse.nl/authors/jan-fivaz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan Fivaz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>Jan Fivaz</title>
+      <link>https://www.tomlouwerse.nl/authors/jan-fivaz/</link>
+    </image>
     
     <item>
       <title>Keeping promises: VAAs and political representation</title>
       <link>https://www.tomlouwerse.nl/publication/2014-fivaz-etal-bc/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2014-fivaz-etal-bc/</guid>
       <description></description>
     </item>

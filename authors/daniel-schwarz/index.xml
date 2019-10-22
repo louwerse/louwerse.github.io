@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daniel Schwarz on Tom Louwerse</title>
+    <title>Daniel Schwarz | Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/authors/daniel-schwarz/</link>
-    <description>Recent content in Daniel Schwarz on Tom Louwerse</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.tomlouwerse.nl/authors/daniel-schwarz/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.tomlouwerse.nl/authors/daniel-schwarz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Schwarz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Thu, 01 May 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>Daniel Schwarz</title>
+      <link>https://www.tomlouwerse.nl/authors/daniel-schwarz/</link>
+    </image>
     
     <item>
       <title>Keeping promises: VAAs and political representation</title>
       <link>https://www.tomlouwerse.nl/publication/2014-fivaz-etal-bc/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2014-fivaz-etal-bc/</guid>
       <description></description>
     </item>

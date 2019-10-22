@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Tom Louwerse</title>
+    <title>Authors | Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/authors/</link>
-    <description>Recent content in Authors on Tom Louwerse</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.tomlouwerse.nl/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.tomlouwerse.nl/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://www.tomlouwerse.nl/authors/</link>
+    </image>
     
     <item>
       <title>Simon Otjes</title>
       <link>https://www.tomlouwerse.nl/authors/simon-otjes/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/simon-otjes/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Tom Louwerse</title>
       <link>https://www.tomlouwerse.nl/authors/tom-louwerse/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/tom-louwerse/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Albert Falcó-Gimeno</title>
       <link>https://www.tomlouwerse.nl/authors/albert-falc%C3%B3-gimeno/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/albert-falc%C3%B3-gimeno/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>Andrea Ceron</title>
       <link>https://www.tomlouwerse.nl/authors/andrea-ceron/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/andrea-ceron/</guid>
       <description></description>
     </item>
@@ -52,7 +48,6 @@
       <title>Hanna Bäck</title>
       <link>https://www.tomlouwerse.nl/authors/hanna-b%C3%A4ck/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/hanna-b%C3%A4ck/</guid>
       <description></description>
     </item>
@@ -61,7 +56,6 @@
       <title>Isabelle Guinaudeau</title>
       <link>https://www.tomlouwerse.nl/authors/isabelle-guinaudeau/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/isabelle-guinaudeau/</guid>
       <description></description>
     </item>
@@ -70,7 +64,6 @@
       <title>Kristoffer Kolltveit</title>
       <link>https://www.tomlouwerse.nl/authors/kristoffer-kolltveit/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/kristoffer-kolltveit/</guid>
       <description></description>
     </item>
@@ -79,7 +72,6 @@
       <title>Martin Eljnar Hansen</title>
       <link>https://www.tomlouwerse.nl/authors/martin-eljnar-hansen/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/martin-eljnar-hansen/</guid>
       <description></description>
     </item>
@@ -88,7 +80,6 @@
       <title>Thomas Meyer</title>
       <link>https://www.tomlouwerse.nl/authors/thomas-meyer/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/thomas-meyer/</guid>
       <description></description>
     </item>
@@ -97,7 +88,6 @@
       <title>Thomas Persson</title>
       <link>https://www.tomlouwerse.nl/authors/thomas-persson/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/thomas-persson/</guid>
       <description></description>
     </item>
@@ -106,7 +96,6 @@
       <title>Ulrich Sieberer</title>
       <link>https://www.tomlouwerse.nl/authors/ulrich-sieberer/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/ulrich-sieberer/</guid>
       <description></description>
     </item>
@@ -115,7 +104,6 @@
       <title>Wolfgang C. Müller</title>
       <link>https://www.tomlouwerse.nl/authors/wolfgang-c.-m%C3%BCller/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/wolfgang-c.-m%C3%BCller/</guid>
       <description></description>
     </item>
@@ -124,17 +112,19 @@
       <title></title>
       <link>https://www.tomlouwerse.nl/authors/admin/</link>
       <pubDate>Wed, 17 Apr 2019 19:00:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/admin/</guid>
-      <description>I am an Associate Professor in Political Science at Leiden University, the Netherlands. My research and teaching focuses on elections, political representation and parliamentary politics in the Netherlands and other established democracies.
-Currently, I am working on two major research projects. The Nature of Political Representation in Times of Dealignment, supported by the Open Research Area, studies the quality and nature of political representation. The project Who opposes? focuses on government-opposition cooperation in parliament and is supported by a Vidi grant from the Dutch Research Council (NWO).</description>
+      <description>&lt;p&gt;I am an Associate Professor in Political Science at &lt;a href=&#34;https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse&#34; target=&#34;_blank&#34;&gt;Leiden University&lt;/a&gt;, the Netherlands. My &lt;a href=&#34;#projects&#34;&gt;research&lt;/a&gt; and &lt;a href=&#34;#teaching&#34;&gt;teaching&lt;/a&gt; focuses on elections, political representation and parliamentary politics in the Netherlands and other established democracies.&lt;/p&gt;
+
+&lt;p&gt;Currently, I am working on two major research projects. &lt;a href=&#34;project/napre&#34; target=&#34;_blank&#34;&gt;The Nature of Political Representation in Times of Dealignment&lt;/a&gt;, supported by the Open Research Area, studies the quality and nature of political representation. The project &lt;a href=&#34;project/who-opposes&#34; target=&#34;_blank&#34;&gt;Who opposes?&lt;/a&gt; focuses on government-opposition cooperation in parliament and is supported by a Vidi grant from the Dutch Research Council (NWO).&lt;/p&gt;
+
+&lt;p&gt;My outreach activities include &lt;a href=&#34;http://peilingwijzer.tomlouwerse.nl&#34; target=&#34;_blank&#34;&gt;Peilingwijzer&lt;/a&gt;, a poll aggregation project in collaboration with the the Dutch public broadcaster NOS. I have the pleasure of acting as chair of &lt;a href=&#34;https://www.universiteitleiden.nl/en/academic-staff/young-academy-leiden&#34; target=&#34;_blank&#34;&gt;Young Academy Leiden&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Stefan Müller</title>
       <link>https://www.tomlouwerse.nl/authors/stefan-m%C3%BCller/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/stefan-m%C3%BCller/</guid>
       <description></description>
     </item>
@@ -143,7 +133,6 @@ Currently, I am working on two major research projects. The Nature of Political 
       <title>Arco Timmermans</title>
       <link>https://www.tomlouwerse.nl/authors/arco-timmermans/</link>
       <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/arco-timmermans/</guid>
       <description></description>
     </item>
@@ -152,7 +141,6 @@ Currently, I am working on two major research projects. The Nature of Political 
       <title>Cynthia van Vonno</title>
       <link>https://www.tomlouwerse.nl/authors/cynthia-van-vonno/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/cynthia-van-vonno/</guid>
       <description></description>
     </item>
@@ -161,7 +149,6 @@ Currently, I am working on two major research projects. The Nature of Political 
       <title>Huib Pellikaan</title>
       <link>https://www.tomlouwerse.nl/authors/huib-pellikaan/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/huib-pellikaan/</guid>
       <description></description>
     </item>
@@ -170,7 +157,6 @@ Currently, I am working on two major research projects. The Nature of Political 
       <title>Cynthia M.C. van Vonno</title>
       <link>https://www.tomlouwerse.nl/authors/cynthia-m.c.-van-vonno/</link>
       <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/cynthia-m.c.-van-vonno/</guid>
       <description></description>
     </item>
@@ -179,7 +165,6 @@ Currently, I am working on two major research projects. The Nature of Political 
       <title>David M. Willumsen</title>
       <link>https://www.tomlouwerse.nl/authors/david-m.-willumsen/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/david-m.-willumsen/</guid>
       <description></description>
     </item>
@@ -188,7 +173,6 @@ Currently, I am working on two major research projects. The Nature of Political 
       <title>Patrick Öhberg</title>
       <link>https://www.tomlouwerse.nl/authors/patrick-%C3%B6hberg/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/patrick-%C3%B6hberg/</guid>
       <description></description>
     </item>
@@ -197,7 +181,6 @@ Currently, I am working on two major research projects. The Nature of Political 
       <title>Martin Rosema</title>
       <link>https://www.tomlouwerse.nl/authors/martin-rosema/</link>
       <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/martin-rosema/</guid>
       <description></description>
     </item>
@@ -206,7 +189,6 @@ Currently, I am working on two major research projects. The Nature of Political 
       <title>Peter Van Aelst</title>
       <link>https://www.tomlouwerse.nl/authors/peter-van-aelst/</link>
       <pubDate>Tue, 13 May 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/peter-van-aelst/</guid>
       <description></description>
     </item>
@@ -215,7 +197,6 @@ Currently, I am working on two major research projects. The Nature of Political 
       <title>Daniel Schwarz</title>
       <link>https://www.tomlouwerse.nl/authors/daniel-schwarz/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/daniel-schwarz/</guid>
       <description></description>
     </item>
@@ -224,7 +205,6 @@ Currently, I am working on two major research projects. The Nature of Political 
       <title>Jan Fivaz</title>
       <link>https://www.tomlouwerse.nl/authors/jan-fivaz/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/jan-fivaz/</guid>
       <description></description>
     </item>
@@ -233,7 +213,6 @@ Currently, I am working on two major research projects. The Nature of Political 
       <title>Jan Erk</title>
       <link>https://www.tomlouwerse.nl/authors/jan-erk/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/jan-erk/</guid>
       <description></description>
     </item>
@@ -242,7 +221,6 @@ Currently, I am working on two major research projects. The Nature of Political 
       <title>Kavita Heijstek-Ziemann</title>
       <link>https://www.tomlouwerse.nl/authors/kavita-heijstek-ziemann/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/authors/kavita-heijstek-ziemann/</guid>
       <description></description>
     </item>

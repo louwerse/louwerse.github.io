@@ -1,51 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>parliaments on Tom Louwerse</title>
+    <title>parliaments | Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/tags/parliaments/</link>
-    <description>Recent content in parliaments on Tom Louwerse</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://www.tomlouwerse.nl/tags/parliaments/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.tomlouwerse.nl/tags/parliaments/index.xml" rel="self" type="application/rss+xml" />
+    <description>parliaments</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>parliaments</title>
+      <link>https://www.tomlouwerse.nl/tags/parliaments/</link>
+    </image>
     
     <item>
       <title>Who opposes?</title>
       <link>https://www.tomlouwerse.nl/project/who-opposes/</link>
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/project/who-opposes/</guid>
-      <description>The main objectives of this project are to measure and explain government-opposition cooperation and to study its consequences for democratic legitimacy and vote choice.</description>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This project is financially supported by the &lt;a href=&#34;https://www.nwo.nl/en/research-and-results/programmes/nwo/talent-scheme/vidi-awards-2018.html&#34; target=&#34;_blank&#34;&gt;Dutch Research Council (NWO)&lt;/a&gt;. The project starts in December 2019.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The main objectives of this project are to measure and explain government-opposition cooperation and to study its consequences for democratic legitimacy and vote choice. Choice is essential to democracy; in modern representative democracies that choice is provided by opposition and governing parties competing in elections. If the choice is to be meaningful, opposition parties have to be distinct from government parties. Previous studies have looked at parties’ distinctiveness in the electoral arena, but what happens in parliament has been overlooked.&lt;/p&gt;
+
+&lt;p&gt;Among scholars as well as the general public, there are increasing concerns regarding the distinctiveness of opposition and government parties in parliament. Scholars have argued that there is a process of opposition blurring in parliament, but the evidence is largely anecdotal and based on single-country studies. This project is the first to provide longitudinal indicators of parliamentary cooperation between government and opposition in four countries.&lt;/p&gt;
+
+&lt;p&gt;The analysis compares established parliamentary democracies with very different political systems: The Netherlands, United Kingdom, Denmark and Canada. Applying innovative content analysis methods to assess parties’ actual parliamentary behaviour and speeches, I will map patterns of parliamentary cooperation between 1945 and 2018. Explanations of those patterns will be based on quantitative data and elite interviews. The effect of government-opposition cooperation on democratic satisfaction, electoral turnout, and vote choice will be studied through analysis of survey material as well as multi-country conjoint survey experiments.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>The Nature of Political Representation in Times of Dealignment</title>
       <link>https://www.tomlouwerse.nl/project/napre/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/project/napre/</guid>
-      <description>This project investigates the viability, and conditions of, dyadic forms of representation in established European democracies</description>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This project is collaborative work with &lt;a href=&#34;http://www.goethe-university-frankfurt.de/50240689/tzittel&#34; target=&#34;_blank&#34;&gt;Prof. Dr Thomas Zittel&lt;/a&gt; and &lt;a href=&#34;http://www.goethe-university-frankfurt.de/82093867/ContentPage_82093867?&#34; target=&#34;_blank&#34;&gt;Dr Markus Baumann&lt;/a&gt; (Goethe Universität Frankfurt am Main), &lt;a href=&#34;https://www.kcl.ac.uk/people/rosie-campbell&#34; target=&#34;_blank&#34;&gt;Prof. Dr Rosie Campbell&lt;/a&gt; and &lt;a href=&#34;https://www.researchgate.net/profile/Diane_Bolet&#34; target=&#34;_blank&#34;&gt;Diane Bolet&lt;/a&gt; (King&amp;rsquo;s College London) and &lt;a href=&#34;https://www.universiteitleiden.nl/medewerkers/wouter-schakel&#34; target=&#34;_blank&#34;&gt;Wouter Schakel&lt;/a&gt; (Leiden University). It is financially supported by DFG, ESRC, and NWO under the &lt;a href=&#34;https://www.nwo.nl/en/news-and-events/news/2018/10/fourteen-dutch-researchers-funded-for-collaborative-projects-across-europe-and-japan.html&#34; target=&#34;_blank&#34;&gt;Open Research Area (ORA)&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Weakening partisanship in West European electorates results in increasing disconnection between citizens and the state; raising pressing questions regarding future mechanisms of political representation that could sustain responsive government. To explore this serious challenge to democratic governance, this project investigates the viability, and conditions of, dyadic forms of representation in established European democracies. We particularly aim to study whether individual MPs pay attention to citizen-initiated inquiries in low information environments, what types of cues most often gain their attention, and how electoral contexts condition the interactions of citizens and MPs.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Political Representation: Linking Citizens and Representatives </title>
       <link>https://www.tomlouwerse.nl/project/political-representation/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/project/political-representation/</guid>
-      <description>Are representatives doing what people want?</description>
+      <description>&lt;p&gt;The policy link between voters and politicians has been a central issue in politics for quite some time. My work focuses on the quality of this policy link: are representatives doing what people want?&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Parliaments: rules and behaviour</title>
       <link>https://www.tomlouwerse.nl/project/parliaments/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/project/parliaments/</guid>
-      <description>How do MPs and parties behave in parliament?</description>
+      <description>&lt;p&gt;The digital publication of parliamentary data has provided a great incentive for the study of parliamentary behaviour. My current work focuses mainly on the Netherlands, but also Belgium and Sweden as well as country-comparative analysis.&lt;/p&gt;
+
+&lt;p&gt;The main questions that I focus on are those of patterns of parliamentary (voting) behaviour, particularly with regard to party unity and the government-opposition division in parliament. In addition, I am interested in the concept of (positive and negative) parliamentarism as well as the government formation process.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

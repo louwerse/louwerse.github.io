@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrea Ceron on Tom Louwerse</title>
+    <title>Andrea Ceron | Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/authors/andrea-ceron/</link>
-    <description>Recent content in Andrea Ceron on Tom Louwerse</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.tomlouwerse.nl/authors/andrea-ceron/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.tomlouwerse.nl/authors/andrea-ceron/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Ceron</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>Andrea Ceron</title>
+      <link>https://www.tomlouwerse.nl/authors/andrea-ceron/</link>
+    </image>
     
     <item>
       <title>The political dynamics of portfolio design in European democracies</title>
       <link>https://www.tomlouwerse.nl/publication/2019-sieberer-et-al/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2019-sieberer-et-al/</guid>
-      <description>Note: my contribution to this article was limited to the collection of data on the case of the Netherlands and workshop participation related to this research project.</description>
+      <description>&lt;p&gt;Note: my contribution to this article was limited to the collection of data on the case of the Netherlands and workshop participation related to this research project.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

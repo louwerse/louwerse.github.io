@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Tom Louwerse</title>
+    <title>Recent &amp; Upcoming Talks | Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Tom Louwerse</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.tomlouwerse.nl/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.tomlouwerse.nl/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://www.tomlouwerse.nl/talk/</link>
+    </image>
     
     <item>
       <title>Inleiding Haagse Tafeltjesavond SIB</title>
       <link>https://www.tomlouwerse.nl/talk/2019-04-17-sib/</link>
       <pubDate>Wed, 17 Apr 2019 19:00:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2019-04-17-sib/</guid>
       <description></description>
     </item>
@@ -25,64 +24,98 @@
       <title>Speech at Young Academy Leiden inauguration</title>
       <link>https://www.tomlouwerse.nl/talk/2019-03-20-inauguration-yal/</link>
       <pubDate>Wed, 20 Mar 2019 16:00:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2019-03-20-inauguration-yal/</guid>
-      <description>Mijnheer de rector magnificus, mevrouw de vice-rector magnificus, ladies and gentlemen,
-It is a great pleasure to speak to you today on behalf of the first group of members of the Young Academy Leiden in my role as chair. Over the past couple of months, we got the chance to get to know each other: a diverse group of scholars from all of our faculties, with very diverse academic backgrounds, nationally and internationally.</description>
+      <description>&lt;p&gt;Mijnheer de rector magnificus, mevrouw de vice-rector magnificus, ladies and gentlemen,&lt;/p&gt;
+
+&lt;p&gt;It is a great pleasure to speak to you today on behalf of the first group of members of the Young Academy Leiden in my role as chair. Over the past couple of months, we got the chance to get to know each other: a diverse group of scholars from all of our faculties, with very diverse academic backgrounds, nationally and internationally. Together, we get the unique chance to discover our disciplinary differences and commonalities, and to shape what the Young Academy Leiden is all about.&lt;/p&gt;
+
+&lt;p&gt;Today we will present ourselves, our research and ambitions for the Young Academy Leiden and will also uncover our first major activity a little later in the programme. But first let me reflect on something that has been a key term in university policy and the conception of a Young Academy in Leiden: academic excellence.&lt;/p&gt;
+
+&lt;p&gt;The term academic excellence has become a buzzword in the academic world. But what does it mean? Sometimes the term excellence is used in an attempt to focus attention and resources on those researchers with unusually good qualities. This ‘super star model’ of science has recently met with criticism, however, from De Jonge Akademie, our big sister organisation at the national level. They argue that the widening gap between the haves and have-nots is not beneficial to a good academic climate. Funding opportunities are, after all, very much limited and many great young scholars with strong proposals cannot be funded. And this in turn leads to unequal chances for further funding and promotion.&lt;/p&gt;
+
+&lt;p&gt;We too have been selected as members of the Young Academy Leiden in part because of our academic record. But we don’t consider ourselves super stars. We view true academic excellence in different terms.&lt;/p&gt;
+
+&lt;p&gt;First, an excellent university recognises that science is done together. We work together, we build on each other’s arguments. We stand on the shoulders of giants, but also on many normal shoulders of people who have contributed to development in their respective fields.&lt;/p&gt;
+
+&lt;p&gt;Second, an excellent university connects education and research and this requires research active staff across the board. An excellent university allows its students to excel.&lt;/p&gt;
+
+&lt;p&gt;And thirdly, academic excellence asks us to look beyond our disciplines and to society. Our bastion of liberty should not be an ivory tower, but a sanctuary open to all and connected to the cities of Leiden and The Hague and the world.&lt;/p&gt;
+
+&lt;p&gt;We are humbled to get the chance to work on these objectives. To strengthen interdisciplinary exchange, to reach out to society and to reflect on university policy from the perspective of young researchers.&lt;/p&gt;
+
+&lt;p&gt;We recognize the help over the years of mentors, friends and colleagues. Speaking from my own perspective: sometimes the job of an academic can be very individual, working on your own projects and teaching your own courses. But far more often I receive support from colleagues in many different shapes. From supervisors and mentors, from people critically reflecting upon my work, from discussions at the lunch table about politics and the university. I am sure this is true for all members of the Young Academy Leiden. We are enormously thankful for the help and support given to us and the opportunity provided to be a part of the Young Academy Leiden. Therefore, we very much look forward to working in service of and together with everyone at our university and beyond.&lt;/p&gt;
+
+&lt;p&gt;It is now my great pleasure to present to you the first members of the Young Academy Leiden.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/L6rmxSAkLOE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
     <item>
       <title>De Stem des Volks</title>
       <link>https://www.tomlouwerse.nl/talk/2018-11-16-alumni-event/</link>
       <pubDate>Fri, 16 Nov 2018 13:00:00 +0100</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2018-11-16-alumni-event/</guid>
-      <description>De Faculteit der Sociale Wetenschappen organiseert deze middag haar 1e alumni event met het thema de uitwisseling tussen wetenschap en praktijk. Waar staat het onderzoek binnen Culturele Antropologie, Pedagogische Wetenschappen en Psychologie nu? Hoe slaan we een brug met het praktische werkveld en onze maatschappelijke omgeving? Hoe kan de wetenschap de ervaringen en innovaties uit de praktijk meenemen? En waar liggen kansen om gezamenlijk op te trekken? Onze wetenschappers vertellen vanuit hun eigen discipline en alumni brengen de ervaringen uit het werkveld.</description>
+      <description>&lt;p&gt;De Faculteit der Sociale Wetenschappen organiseert deze middag haar 1e alumni event met het thema de uitwisseling tussen wetenschap en praktijk. Waar staat het onderzoek binnen Culturele Antropologie, Pedagogische Wetenschappen en Psychologie nu? Hoe slaan we een brug met het praktische werkveld en onze maatschappelijke omgeving? Hoe kan de wetenschap de ervaringen en innovaties uit de praktijk meenemen? En waar liggen kansen om gezamenlijk op te trekken? Onze wetenschappers vertellen vanuit hun eigen discipline en alumni brengen de ervaringen uit het werkveld.&lt;/p&gt;
+
+&lt;p&gt;Ik spreek over politieke peilingen en de Peilingwijzer in het bijzonder.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Helpen stemhulpen?</title>
       <link>https://www.tomlouwerse.nl/talk/2018-10-16-prodemos/</link>
       <pubDate>Tue, 16 Oct 2018 12:30:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2018-10-16-prodemos/</guid>
-      <description>During the first ProDemos &amp;lsquo;knowledge lunch&amp;rsquo; I presented academic research by others and myself on &amp;lsquo;voting advice applications&amp;rsquo;. I talked about their impact and their design, as well as how their design impacts upon the advice they provide.</description>
+      <description>&lt;p&gt;During the first ProDemos &amp;lsquo;knowledge lunch&amp;rsquo; I presented academic research by others and myself on &amp;lsquo;voting advice applications&amp;rsquo;. I talked about their impact and their design, as well as how their design impacts upon the advice they provide.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Data in Representative Democracy</title>
       <link>https://www.tomlouwerse.nl/talk/2018-07-03-summerschool/</link>
       <pubDate>Tue, 03 Jul 2018 09:00:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2018-07-03-summerschool/</guid>
-      <description>The relationship between politicians and citizens is at the core of representative democracy, but any number of organizations desire some form of representative relationship between themselves and their participants, clients, etc. In the political realm, researchers are using various data sources to study the representative relationship, for example voter studies, elite surveys, text analysis, and data and online tools are increasingly used to strengthen the representative relationship. Voting Advice Applications, for example, use data on party policy positions to present voters with advice on who to vote for.</description>
+      <description>&lt;p&gt;The relationship between politicians and citizens is at the core of representative democracy, but any number of organizations desire some form of representative relationship between themselves and their participants, clients, etc. In the political realm, researchers are using various data sources to study the representative relationship, for example voter studies, elite surveys, text analysis, and data and online tools are increasingly used to strengthen the representative relationship. Voting Advice Applications, for example, use data on party policy positions to present voters with advice on who to vote for. This session will look into the models of what the representative relationship can and should look like, and how data can be used to study and improve this relationship.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Parlementaire oppositie: overal en nergens?</title>
       <link>https://www.tomlouwerse.nl/talk/2018-05-18-andeweg/</link>
       <pubDate>Fri, 18 May 2018 13:15:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2018-05-18-andeweg/</guid>
-      <description>Op vrijdag 18 mei 2018 neemt prof. dr. R.B. (Rudy) Andeweg officieel afscheid van de Universiteit Leiden. Voorafgaand aan zijn afscheidsrede organiseert het Instituut Politieke Wetenschap een symposium.
-Als inleiders/sprekers van dit symposium, onder voorzitterschap van prof. dr. Galen Irwin, zullen optreden:
- Prof. dr. Kris Deschouwer (Vrije Universiteit Brussel) Prof.dr. Jacques Thomassen (Universiteit Twente) Dr. Tom Louwerse (Universiteit Leiden)  </description>
+      <description>&lt;p&gt;Op vrijdag 18 mei 2018 neemt prof. dr. R.B. (Rudy) Andeweg officieel afscheid van de Universiteit Leiden. Voorafgaand aan zijn afscheidsrede organiseert het Instituut Politieke Wetenschap een symposium.&lt;/p&gt;
+
+&lt;p&gt;Als inleiders/sprekers van dit symposium, onder voorzitterschap van prof. dr. Galen Irwin, zullen optreden:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prof. dr. Kris Deschouwer (Vrije Universiteit Brussel)&lt;/li&gt;
+&lt;li&gt;Prof.dr. Jacques Thomassen (Universiteit Twente)&lt;/li&gt;
+&lt;li&gt;Dr. Tom Louwerse (Universiteit Leiden)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Beyond rigour: increasing the public relevance of political science and public administration</title>
       <link>https://www.tomlouwerse.nl/talk/2017-11-09-vvb/</link>
       <pubDate>Thu, 09 Nov 2017 10:30:00 +0100</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2017-11-09-vvb/</guid>
-      <description>The Verening voor Bestuurskunde organizes together with the Netherlands Institute of Government an interactive discussion on doing valorisation. Students, PhD students, researchers, professors and wider audience discuss the scientific calling and public relevance of public administration and political science. Panel members include: prof. Sandra van Thiel (Radboud University Nijmegen), dr. Tom Louwerse (Leiden University), prof. Willem Schinkel (Erasmus University of Rotterdam), dr. Sanneke Kuipers (Leiden University), and dr. Thomas Schillemans (Utrecht University).</description>
+      <description>&lt;p&gt;The Verening voor Bestuurskunde organizes together with the Netherlands Institute of Government an interactive discussion on doing valorisation. Students, PhD students, researchers, professors and wider audience discuss the scientific calling and public relevance of public administration and political science. Panel members include: prof. Sandra van Thiel (Radboud University Nijmegen), dr. Tom Louwerse (Leiden University), prof. Willem Schinkel (Erasmus University of Rotterdam), dr. Sanneke Kuipers (Leiden University), and dr. Thomas Schillemans (Utrecht University).&lt;/p&gt;
+
+&lt;p&gt;The panel discussion is led by prof. Mark Bovens (Utrecht University)&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Rol en reikwijdte van de peilingen</title>
       <link>https://www.tomlouwerse.nl/talk/2017-05-13-knaw/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2017-05-13-knaw/</guid>
       <description></description>
     </item>
@@ -91,7 +124,6 @@ Als inleiders/sprekers van dit symposium, onder voorzitterschap van prof. dr. Ga
       <title>Waarom zou je peilingen serieus nemen?</title>
       <link>https://www.tomlouwerse.nl/talk/2017-04-11-scl/</link>
       <pubDate>Tue, 11 Apr 2017 20:00:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2017-04-11-scl/</guid>
       <description></description>
     </item>
@@ -100,7 +132,6 @@ Als inleiders/sprekers van dit symposium, onder voorzitterschap van prof. dr. Ga
       <title>Waarom zou je peilingen serieus nemen?</title>
       <link>https://www.tomlouwerse.nl/talk/2017-03-30-jal/</link>
       <pubDate>Thu, 30 Mar 2017 20:00:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2017-03-30-jal/</guid>
       <description></description>
     </item>
@@ -109,7 +140,6 @@ Als inleiders/sprekers van dit symposium, onder voorzitterschap van prof. dr. Ga
       <title>Een verdeeld electoraat?</title>
       <link>https://www.tomlouwerse.nl/talk/2017-03-08-ul/</link>
       <pubDate>Wed, 08 Mar 2017 16:15:00 +0100</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2017-03-08-ul/</guid>
       <description></description>
     </item>
@@ -118,7 +148,6 @@ Als inleiders/sprekers van dit symposium, onder voorzitterschap van prof. dr. Ga
       <title>Peilingen: waarom, hoe en waartoe?</title>
       <link>https://www.tomlouwerse.nl/talk/2017-01-12-po/</link>
       <pubDate>Thu, 12 Jan 2017 14:00:00 +0100</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2017-01-12-po/</guid>
       <description></description>
     </item>
@@ -127,16 +156,19 @@ Als inleiders/sprekers van dit symposium, onder voorzitterschap van prof. dr. Ga
       <title>Kun je peilingen eigenlijk wel serieus nemen?</title>
       <link>https://www.tomlouwerse.nl/talk/2017-uvn/</link>
       <pubDate>Wed, 11 Jan 2017 20:00:00 +0100</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2017-uvn/</guid>
-      <description>   </description>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/xJLcHCfCNw0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
     <item>
       <title>Campagne 2017: Kiesgedrag, peilingen &amp; beloftes</title>
       <link>https://www.tomlouwerse.nl/talk/2016-10-22-dwars/</link>
       <pubDate>Sat, 22 Oct 2016 00:00:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2016-10-22-dwars/</guid>
       <description></description>
     </item>
@@ -145,7 +177,6 @@ Als inleiders/sprekers van dit symposium, onder voorzitterschap van prof. dr. Ga
       <title>Beyond intuition: how sensible use of methodology can improve scientific research</title>
       <link>https://www.tomlouwerse.nl/talk/2016-05-12-fft/</link>
       <pubDate>Thu, 12 May 2016 12:00:00 +0200</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/talk/2016-05-12-fft/</guid>
       <description></description>
     </item>

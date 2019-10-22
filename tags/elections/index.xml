@@ -1,42 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>elections on Tom Louwerse</title>
+    <title>elections | Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/tags/elections/</link>
-    <description>Recent content in elections on Tom Louwerse</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.tomlouwerse.nl/tags/elections/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.tomlouwerse.nl/tags/elections/index.xml" rel="self" type="application/rss+xml" />
+    <description>elections</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>elections</title>
+      <link>https://www.tomlouwerse.nl/tags/elections/</link>
+    </image>
     
     <item>
       <title>Political Representation: Linking Citizens and Representatives </title>
       <link>https://www.tomlouwerse.nl/project/political-representation/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/project/political-representation/</guid>
-      <description>Are representatives doing what people want?</description>
+      <description>&lt;p&gt;The policy link between voters and politicians has been a central issue in politics for quite some time. My work focuses on the quality of this policy link: are representatives doing what people want?&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Polling Aggregation</title>
       <link>https://www.tomlouwerse.nl/project/polling-aggregation/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/project/polling-aggregation/</guid>
-      <description>Peilingwijzer and the Irish Polling Indicator pool Dutch and Irish opinion polls respectively</description>
+      <description>
+
+&lt;p&gt;Opinion polls are an increasingly central part of election campaigns. My work focuses on the aggregation of opinion polls in Ireland and the Netherlands.&lt;/p&gt;
+
+&lt;h2 id=&#34;peilingwijzer&#34;&gt;Peilingwijzer&lt;/h2&gt;
+
+&lt;p&gt;The Dutch public broadcaster NOS &lt;a href=&#34;http://www.peilingwijzer.nl&#34; target=&#34;_blank&#34;&gt;publishes&lt;/a&gt; my aggregation of Dutch national opinion polls, called &lt;a href=&#34;http://peilingwijzer.tomlouwerse.nl/&#34; target=&#34;_blank&#34;&gt;&amp;lsquo;Peilingwijzer&amp;rsquo; (Polling Indicator)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;irish-polling-indicator&#34;&gt;Irish Polling Indicator&lt;/h2&gt;
+
+&lt;p&gt;My &lt;a href=&#34;http://www.pollingindicator.com/&#34; target=&#34;_blank&#34;&gt;Irish Polling Indicator&lt;/a&gt; is published regularly on politicalreform.ie.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Voting Advice Applications</title>
       <link>https://www.tomlouwerse.nl/project/vaa/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/project/vaa/</guid>
-      <description>VAAs help voters during elections. I study their design.</description>
+      <description>&lt;p&gt;Voting Advice Applications have gained a large popular audience over the last decades, but their design has not been studied very elaborately. These tools ask voters for their opinion on a number of salient issues in an election and then present the ‘best match’ between the user’s preferences and the policy preferences of the political parties in a country. In a number of projects, together with different colleagues I have begun to unravel these issues of VAA design. The main question of these studies is: how can we be sure that these tools provide voters with good advice?&lt;/p&gt;
+</description>
     </item>
     
   </channel>

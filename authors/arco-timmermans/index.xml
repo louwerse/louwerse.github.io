@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arco Timmermans on Tom Louwerse</title>
+    <title>Arco Timmermans | Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/authors/arco-timmermans/</link>
-    <description>Recent content in Arco Timmermans on Tom Louwerse</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.tomlouwerse.nl/authors/arco-timmermans/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.tomlouwerse.nl/authors/arco-timmermans/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arco Timmermans</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>Arco Timmermans</title>
+      <link>https://www.tomlouwerse.nl/authors/arco-timmermans/</link>
+    </image>
     
     <item>
       <title>The Netherlands: The reinvention of consensus democracy</title>
       <link>https://www.tomlouwerse.nl/publication/2018-otjes-louwerse-timmermans/</link>
       <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2018-otjes-louwerse-timmermans/</guid>
-      <description>We examine the development of opposition party behaviour in the Dutch Tweede Kamer between 1998 and 2015.</description>
+      <description></description>
     </item>
     
   </channel>

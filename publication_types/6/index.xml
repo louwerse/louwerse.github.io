@@ -1,49 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>6 on Tom Louwerse</title>
+    <title>6 | Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/publication_types/6/</link>
-    <description>Recent content in 6 on Tom Louwerse</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.tomlouwerse.nl/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.tomlouwerse.nl/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>6</title>
+      <link>https://www.tomlouwerse.nl/publication_types/6/</link>
+    </image>
     
     <item>
       <title>De PVV in het parlement</title>
       <link>https://www.tomlouwerse.nl/publication/2019-otjes-louwerse-wilders-gewogen/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2019-otjes-louwerse-wilders-gewogen/</guid>
-      <description>   </description>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;wilders-gewogen.jpg&#34; alt=&#34;&#34; &gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
     </item>
     
     <item>
       <title>The Netherlands: The reinvention of consensus democracy</title>
       <link>https://www.tomlouwerse.nl/publication/2018-otjes-louwerse-timmermans/</link>
       <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2018-otjes-louwerse-timmermans/</guid>
-      <description>We examine the development of opposition party behaviour in the Dutch Tweede Kamer between 1998 and 2015.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Naar nieuwe verhoudingen tussen Kamer en kabinet?</title>
       <link>https://www.tomlouwerse.nl/publication/2017-louwerse-van-vonno/</link>
       <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2017-louwerse-van-vonno/</guid>
-      <description>We analyseren de relatie tussen parlement en regering aan de hand van interruptiepatronen in parlementaire debatten en een gedetailleerde lezing van geselecteerde Algemene Beschouwingen</description>
+      <description></description>
     </item>
     
     <item>
       <title>Een middenkabinet of een minderheidskabinet?</title>
       <link>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-mi/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-mi/</guid>
       <description></description>
     </item>
@@ -52,7 +69,6 @@
       <title>Keeping promises: VAAs and political representation</title>
       <link>https://www.tomlouwerse.nl/publication/2014-fivaz-etal-bc/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2014-fivaz-etal-bc/</guid>
       <description></description>
     </item>
@@ -61,7 +77,6 @@
       <title>Verkiezingsbeloften: een verouderd ritueel? [Election promises: an obsolete ritual?]</title>
       <link>https://www.tomlouwerse.nl/publication/2014-louwerse-rob/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2014-louwerse-rob/</guid>
       <description></description>
     </item>

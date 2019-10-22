@@ -1,67 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Simon Otjes on Tom Louwerse</title>
+    <title>Simon Otjes | Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/authors/simon-otjes/</link>
-    <description>Recent content in Simon Otjes on Tom Louwerse</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.tomlouwerse.nl/authors/simon-otjes/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.tomlouwerse.nl/authors/simon-otjes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simon Otjes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>Simon Otjes</title>
+      <link>https://www.tomlouwerse.nl/authors/simon-otjes/</link>
+    </image>
     
     <item>
       <title>De PVV in het parlement</title>
       <link>https://www.tomlouwerse.nl/publication/2019-otjes-louwerse-wilders-gewogen/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2019-otjes-louwerse-wilders-gewogen/</guid>
-      <description>   </description>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;wilders-gewogen.jpg&#34; alt=&#34;&#34; &gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
     </item>
     
     <item>
       <title>How Populists Wage Opposition: Parliamentary Opposition Behaviour and Populism in Netherlands</title>
       <link>https://www.tomlouwerse.nl/publication/2018-louwerse-otjes/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2018-louwerse-otjes/</guid>
-      <description>This article analyses how populist parties wage opposition in parliament. Our findings indicate that populist opposition parties are particularly less likely to engage in policy-making behaviour and somewhat more likely to engage in scrutiny behaviour.</description>
+      <description>
+
+&lt;h3 id=&#34;this-is-an-open-access-publication-i-class-ai-ai-open-access-i-i-class-fab-fa-creative-commons-i&#34;&gt;This is an open access publication &lt;i class=&#34;ai ai-open-access&#34;&gt;&lt;/i&gt; &lt;i class=&#34;fab fa-creative-commons&#34;&gt;&lt;/i&gt;&lt;/h3&gt;
+</description>
     </item>
     
     <item>
       <title>The Netherlands: The reinvention of consensus democracy</title>
       <link>https://www.tomlouwerse.nl/publication/2018-otjes-louwerse-timmermans/</link>
       <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2018-otjes-louwerse-timmermans/</guid>
-      <description>We examine the development of opposition party behaviour in the Dutch Tweede Kamer between 1998 and 2015.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Parliamentary Questions as Strategic Party Tools</title>
       <link>https://www.tomlouwerse.nl/publication/2017-otjes-louwerse-wep/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2017-otjes-louwerse-wep/</guid>
-      <description>This paper shifts the analysis of parliamentary oversight tools to the level of the political party, asking how political parties make use of written parliamentary questions.</description>
+      <description>
+
+&lt;h3 id=&#34;this-is-an-open-access-publication-i-class-ai-ai-open-access-i-i-class-fab-fa-creative-commons-i&#34;&gt;This is an open access publication &lt;i class=&#34;ai ai-open-access&#34;&gt;&lt;/i&gt; &lt;i class=&#34;fab fa-creative-commons&#34;&gt;&lt;/i&gt;&lt;/h3&gt;
+</description>
     </item>
     
     <item>
       <title>The Dutch Parliamentary Behaviour Dataset</title>
       <link>https://www.tomlouwerse.nl/publication/2017-louwerse-otjes-vanvonno-actapolitica/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2017-louwerse-otjes-vanvonno-actapolitica/</guid>
-      <description>The Dutch Parliamentary Behaviour Dataset contains a record of parliamentary (voting) behaviour in the Dutch Tweede Kamer (Second Chamber, House of Representatives) since 1945.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Reaching across the aisle: Explaining government–opposition voting in parliament</title>
       <link>https://www.tomlouwerse.nl/publication/2016-louwerse-etal-party-politics/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2016-louwerse-etal-party-politics/</guid>
       <description></description>
     </item>
@@ -70,16 +91,14 @@
       <title>Personalised parliamentary behaviour without electoral incentives: the case of the Netherlands</title>
       <link>https://www.tomlouwerse.nl/publication/2016-louwerse-otjes-wep/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2016-louwerse-otjes-wep/</guid>
-      <description>Most theories of legislative behaviour explain the behaviour of MPs through electoral incentives. However, they fail to explain variation in parliamentary activity when individual electoral incentives are largely absent.</description>
+      <description></description>
     </item>
     
     <item>
       <title>The Impact of Parliamentary Specialisation on Cosponsorship</title>
       <link>https://www.tomlouwerse.nl/publication/2015-louwerse-otjes-jls/</link>
       <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2015-louwerse-otjes-jls/</guid>
       <description></description>
     </item>
@@ -88,7 +107,6 @@
       <title>Populists in Parliament: Comparing Left-Wing and Right-Wing Populism in the Netherlands</title>
       <link>https://www.tomlouwerse.nl/publication/2015-otjes-louwerse-ps/</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2015-otjes-louwerse-ps/</guid>
       <description></description>
     </item>
@@ -97,7 +115,6 @@
       <title>Spatial models in voting advice applications</title>
       <link>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-es/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-es/</guid>
       <description></description>
     </item>
@@ -106,16 +123,15 @@
       <title>A Special Majority Cabinet? Supported Minority Governance and Parliamentary Behavior in the Netherlands</title>
       <link>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-wpsr/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-wpsr/</guid>
-      <description>This is an English-language version of Otjes &amp;amp; Louwerse (2013) Res Publica 55(4), 459-480</description>
+      <description>&lt;p&gt;This is an English-language version of Otjes &amp;amp; Louwerse (2013) Res Publica 55(4), 459-480&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Een middenkabinet of een minderheidskabinet?</title>
       <link>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-mi/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2014-otjes-louwerse-mi/</guid>
       <description></description>
     </item>
@@ -124,7 +140,6 @@
       <title>Een bijzonder meerderheidskabinet? Parlementair gedrag tijdens het kabinet Rutte-I</title>
       <link>https://www.tomlouwerse.nl/publication/2013-otjes-louwerse-rp/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2013-otjes-louwerse-rp/</guid>
       <description></description>
     </item>
@@ -133,7 +148,6 @@
       <title>Design challenges in cross-national VAAs: the case of the EU Profiler</title>
       <link>https://www.tomlouwerse.nl/publication/2012-louwerse-otjes-ijeg/</link>
       <pubDate>Sun, 30 Dec 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2012-louwerse-otjes-ijeg/</guid>
       <description></description>
     </item>
@@ -142,7 +156,6 @@
       <title>Loyaal met een scherpe rand</title>
       <link>https://www.tomlouwerse.nl/publication/2011-louwerse-otjes-ul/</link>
       <pubDate>Wed, 28 Sep 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2011-louwerse-otjes-ul/</guid>
       <description></description>
     </item>
@@ -151,7 +164,6 @@
       <title>Kies voor de liberale democratie</title>
       <link>https://www.tomlouwerse.nl/publication/2010-otjes-louwerse-helling/</link>
       <pubDate>Tue, 21 Sep 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2010-otjes-louwerse-helling/</guid>
       <description></description>
     </item>

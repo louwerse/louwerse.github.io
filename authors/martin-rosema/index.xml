@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Martin Rosema on Tom Louwerse</title>
+    <title>Martin Rosema | Tom Louwerse</title>
     <link>https://www.tomlouwerse.nl/authors/martin-rosema/</link>
-    <description>Recent content in Martin Rosema on Tom Louwerse</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Tom Louwerse</copyright>
-    <lastBuildDate>Mon, 24 Oct 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.tomlouwerse.nl/authors/martin-rosema/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://www.tomlouwerse.nl/authors/martin-rosema/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Rosema</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Mon, 24 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>Martin Rosema</title>
+      <link>https://www.tomlouwerse.nl/authors/martin-rosema/</link>
+    </image>
     
     <item>
       <title>Response Scales in Voting Advice Applications: Do Different Designs Produce Different Outcomes?</title>
       <link>https://www.tomlouwerse.nl/publication/2016-rosema-louwerse-pi/</link>
       <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2016-rosema-louwerse-pi/</guid>
-      <description>This article examines the effects of design choices on these tools by focusing on the response scale that is used to measure the policy positions of parties and voters.</description>
+      <description>
+
+&lt;h3 id=&#34;this-is-an-open-access-publication-i-class-ai-ai-open-access-i-i-class-fab-fa-creative-commons-i&#34;&gt;This is an open access publication &lt;i class=&#34;ai ai-open-access&#34;&gt;&lt;/i&gt; &lt;i class=&#34;fab fa-creative-commons&#34;&gt;&lt;/i&gt;&lt;/h3&gt;
+</description>
     </item>
     
     <item>
       <title>The design effects of voting advice applications: Comparing methods of calculating matches</title>
       <link>https://www.tomlouwerse.nl/publication/2014-louwerse-rosema-actapolitica/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://www.tomlouwerse.nl/publication/2014-louwerse-rosema-actapolitica/</guid>
       <description></description>
     </item>
