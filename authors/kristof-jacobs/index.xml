@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristof Jacobs | Tom Louwerse</title>
+    <link>https://www.tomlouwerse.nl/authors/kristof-jacobs/</link>
+      <atom:link href="https://www.tomlouwerse.nl/authors/kristof-jacobs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kristof Jacobs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Thu, 07 Nov 2019 14:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>Kristof Jacobs</title>
+      <link>https://www.tomlouwerse.nl/authors/kristof-jacobs/</link>
+    </image>
+    
+    <item>
+      <title>Transparantie in Digitale Politieke Advertenties gedurende de Europese Parlementsverkiezingen 2019: De casus Nederland</title>
+      <link>https://www.tomlouwerse.nl/talk/2019-11-07-nhc/</link>
+      <pubDate>Thu, 07 Nov 2019 14:00:00 +0100</pubDate>
+      <guid>https://www.tomlouwerse.nl/talk/2019-11-07-nhc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
