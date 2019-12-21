@@ -5,7 +5,7 @@
     <link>https://www.tomlouwerse.nl/authors/</link>
       <atom:link href="https://www.tomlouwerse.nl/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Mon, 11 Nov 2019 13:30:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tom Louwerse</copyright><lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://www.tomlouwerse.nl/authors/admin/</link>
-      <pubDate>Mon, 11 Nov 2019 13:30:00 +0100</pubDate>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://www.tomlouwerse.nl/authors/admin/</guid>
       <description>&lt;p&gt;I am an Associate Professor in Political Science at &lt;a href=&#34;https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse&#34; target=&#34;_blank&#34;&gt;Leiden University&lt;/a&gt;, the Netherlands. My &lt;a href=&#34;#projects&#34;&gt;research&lt;/a&gt; and &lt;a href=&#34;#teaching&#34;&gt;teaching&lt;/a&gt; focuses on elections, political representation and parliamentary politics in the Netherlands and other established democracies.&lt;/p&gt;
 
@@ -23,6 +23,38 @@
 
 &lt;p&gt;My outreach activities include &lt;a href=&#34;http://peilingwijzer.tomlouwerse.nl&#34; target=&#34;_blank&#34;&gt;Peilingwijzer&lt;/a&gt;, a poll aggregation project in collaboration with the the Dutch public broadcaster NOS. I have the pleasure of acting as chair of &lt;a href=&#34;https://www.universiteitleiden.nl/en/academic-staff/young-academy-leiden&#34; target=&#34;_blank&#34;&gt;Young Academy Leiden&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>(Eds.)</title>
+      <link>https://www.tomlouwerse.nl/authors/eds./</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tomlouwerse.nl/authors/eds./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joop van Holsteyn</title>
+      <link>https://www.tomlouwerse.nl/authors/joop-van-holsteyn/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tomlouwerse.nl/authors/joop-van-holsteyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josje den Ridder</title>
+      <link>https://www.tomlouwerse.nl/authors/josje-den-ridder/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tomlouwerse.nl/authors/josje-den-ridder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rudy Andeweg</title>
+      <link>https://www.tomlouwerse.nl/authors/rudy-andeweg/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tomlouwerse.nl/authors/rudy-andeweg/</guid>
+      <description></description>
     </item>
     
     <item>
