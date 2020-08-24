@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.tomlouwerse.nl/authors/admin/</loc>
-    <lastmod>2020-02-12T19:30:00+01:00</lastmod>
+    <loc>https://www.tomlouwerse.nl/publication/2020-andeweg-louwerse/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/publication_types/6/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.tomlouwerse.nl/authors/</loc>
-    <lastmod>2020-02-12T19:30:00+01:00</lastmod>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/publication_types/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/rudy-andeweg/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/tom-louwerse/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.tomlouwerse.nl/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tomlouwerse.nl/authors/admin/</loc>
     <lastmod>2020-02-12T19:30:00+01:00</lastmod>
   </url>
   
@@ -38,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://www.tomlouwerse.nl/publication_types/6/</loc>
-    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.tomlouwerse.nl/publication/2019-louwerse-et-al-chapter/</loc>
     <lastmod>2019-12-13T00:00:00+00:00</lastmod>
   </url>
@@ -54,16 +74,6 @@
   
   <url>
     <loc>https://www.tomlouwerse.nl/authors/josje-den-ridder/</loc>
-    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/publication_types/</loc>
-    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/authors/rudy-andeweg/</loc>
     <lastmod>2019-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -134,11 +144,6 @@
   
   <url>
     <loc>https://www.tomlouwerse.nl/authors/simon-otjes/</loc>
-    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tomlouwerse.nl/authors/tom-louwerse/</loc>
     <lastmod>2019-09-11T00:00:00+00:00</lastmod>
   </url>
   

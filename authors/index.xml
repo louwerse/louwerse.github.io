@@ -5,12 +5,28 @@
     <link>https://www.tomlouwerse.nl/authors/</link>
       <atom:link href="https://www.tomlouwerse.nl/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tom Louwerse</copyright><lastBuildDate>Wed, 12 Feb 2020 19:30:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tom Louwerse</copyright><lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://www.tomlouwerse.nl/authors/</link>
     </image>
+    
+    <item>
+      <title>Rudy Andeweg</title>
+      <link>https://www.tomlouwerse.nl/authors/rudy-andeweg/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tomlouwerse.nl/authors/rudy-andeweg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tom Louwerse</title>
+      <link>https://www.tomlouwerse.nl/authors/tom-louwerse/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tomlouwerse.nl/authors/tom-louwerse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -50,14 +66,6 @@
     </item>
     
     <item>
-      <title>Rudy Andeweg</title>
-      <link>https://www.tomlouwerse.nl/authors/rudy-andeweg/</link>
-      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.tomlouwerse.nl/authors/rudy-andeweg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kristof Jacobs</title>
       <link>https://www.tomlouwerse.nl/authors/kristof-jacobs/</link>
       <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
@@ -78,14 +86,6 @@
       <link>https://www.tomlouwerse.nl/authors/simon-otjes/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://www.tomlouwerse.nl/authors/simon-otjes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tom Louwerse</title>
-      <link>https://www.tomlouwerse.nl/authors/tom-louwerse/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.tomlouwerse.nl/authors/tom-louwerse/</guid>
       <description></description>
     </item>
     
