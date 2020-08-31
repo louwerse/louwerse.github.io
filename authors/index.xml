@@ -5,7 +5,7 @@
     <link>https://www.tomlouwerse.nl/authors/</link>
       <atom:link href="https://www.tomlouwerse.nl/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tom Louwerse</copyright><lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tom Louwerse</copyright><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>Rudy Andeweg</title>
-      <link>https://www.tomlouwerse.nl/authors/rudy-andeweg/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.tomlouwerse.nl/authors/rudy-andeweg/</guid>
+      <title>Galen A. Irwin</title>
+      <link>https://www.tomlouwerse.nl/authors/galen-a.-irwin/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tomlouwerse.nl/authors/galen-a.-irwin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rudy B. Andeweg</title>
+      <link>https://www.tomlouwerse.nl/authors/rudy-b.-andeweg/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tomlouwerse.nl/authors/rudy-b.-andeweg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tom Louwerse</title>
       <link>https://www.tomlouwerse.nl/authors/tom-louwerse/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://www.tomlouwerse.nl/authors/tom-louwerse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rudy Andeweg</title>
+      <link>https://www.tomlouwerse.nl/authors/rudy-andeweg/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tomlouwerse.nl/authors/rudy-andeweg/</guid>
       <description></description>
     </item>
     
@@ -37,7 +53,7 @@
 
 &lt;p&gt;Currently, I am working on two major research projects. &lt;a href=&#34;project/napre&#34; target=&#34;_blank&#34;&gt;The Nature of Political Representation in Times of Dealignment&lt;/a&gt;, supported by the Open Research Area, studies the quality and nature of political representation. The project &lt;a href=&#34;project/who-opposes&#34; target=&#34;_blank&#34;&gt;Who opposes?&lt;/a&gt; focuses on government-opposition cooperation in parliament and is supported by a Vidi grant from the Dutch Research Council (NWO).&lt;/p&gt;
 
-&lt;p&gt;My outreach activities include &lt;a href=&#34;http://peilingwijzer.tomlouwerse.nl&#34; target=&#34;_blank&#34;&gt;Peilingwijzer&lt;/a&gt;, a poll aggregation project in collaboration with the the Dutch public broadcaster NOS. I have the pleasure of acting as chair of &lt;a href=&#34;https://www.universiteitleiden.nl/en/academic-staff/young-academy-leiden&#34; target=&#34;_blank&#34;&gt;Young Academy Leiden&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My outreach activities include the poll aggregation projects &lt;a href=&#34;http://peilingwijzer.tomlouwerse.nl&#34; target=&#34;_blank&#34;&gt;Peilingwijzer&lt;/a&gt; in the Netherlands and the &lt;a href=&#34;https://www.pollingindicator.com&#34; target=&#34;_blank&#34;&gt;Irish Polling Indicator&lt;/a&gt;. I am a member of of &lt;a href=&#34;https://www.universiteitleiden.nl/en/academic-staff/young-academy-leiden&#34; target=&#34;_blank&#34;&gt;Young Academy Leiden&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

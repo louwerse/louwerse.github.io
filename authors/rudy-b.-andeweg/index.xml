@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rudy B. Andeweg | Tom Louwerse</title>
+    <link>https://www.tomlouwerse.nl/authors/rudy-b.-andeweg/</link>
+      <atom:link href="https://www.tomlouwerse.nl/authors/rudy-b.-andeweg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rudy B. Andeweg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tom Louwerse</copyright><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tomlouwerse.nl/img/icon-192.png</url>
+      <title>Rudy B. Andeweg</title>
+      <link>https://www.tomlouwerse.nl/authors/rudy-b.-andeweg/</link>
+    </image>
+    
+    <item>
+      <title>Governance and Politics of the Netherlands</title>
+      <link>https://www.tomlouwerse.nl/publication/2020-andeweg-irwin-louwerse/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tomlouwerse.nl/publication/2020-andeweg-irwin-louwerse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
